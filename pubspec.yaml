@@ -22,6 +22,6 @@ dev_dependencies:
 
 flutter:
   fonts:
-    - family: Warframe-symbols
+    - family: Warframe-Symbols
       fonts:
-        - asset: fonts/Warframe-symbols.ttf
+        - asset: fonts/Warframe-Symbols.ttf
