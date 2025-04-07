@@ -1,0 +1,27 @@
+name: warframe_icons
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.7.0
+  flutter: ^3.29.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  recase: ^4.1.0
+  unorm_dart: ^0.3.0
+  very_good_analysis: ^7.0.0
+  xml: ^6.5.0
+
+flutter:
+  fonts:
+    - family: Warframe-symbols
+      fonts:
+        - asset: fonts/Warframe-symbols.ttf
