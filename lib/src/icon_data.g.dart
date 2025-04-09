@@ -661,234 +661,261 @@ class WarframeIcons {
   /// Warframe icons ostron [IconData] with Unicode 0xf1dc
   static const IconData ostron = WarframeIconData(0xf1dc);
 
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel1 [IconData] with Unicode 0xf1dd
-  static const IconData sigilsArbitersOfHexisArbitersLevel1 = WarframeIconData(0xf1dd);
+  /// Warframe icons requiemFass [IconData] with Unicode 0xf1dd
+  static const IconData requiemFass = WarframeIconData(0xf1dd);
 
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel2 [IconData] with Unicode 0xf1de
-  static const IconData sigilsArbitersOfHexisArbitersLevel2 = WarframeIconData(0xf1de);
+  /// Warframe icons requiemJahu [IconData] with Unicode 0xf1de
+  static const IconData requiemJahu = WarframeIconData(0xf1de);
 
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel3 [IconData] with Unicode 0xf1df
-  static const IconData sigilsArbitersOfHexisArbitersLevel3 = WarframeIconData(0xf1df);
+  /// Warframe icons requiemKhra [IconData] with Unicode 0xf1df
+  static const IconData requiemKhra = WarframeIconData(0xf1df);
 
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel4 [IconData] with Unicode 0xf1e0
-  static const IconData sigilsArbitersOfHexisArbitersLevel4 = WarframeIconData(0xf1e0);
+  /// Warframe icons requiemLohk [IconData] with Unicode 0xf1e0
+  static const IconData requiemLohk = WarframeIconData(0xf1e0);
 
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel5 [IconData] with Unicode 0xf1e1
-  static const IconData sigilsArbitersOfHexisArbitersLevel5 = WarframeIconData(0xf1e1);
+  /// Warframe icons requiemNetra [IconData] with Unicode 0xf1e1
+  static const IconData requiemNetra = WarframeIconData(0xf1e1);
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel1 [IconData] with Unicode 0xf1e2
-  static const IconData sigilsCephalonSudaCephalonSudaLevel1 = WarframeIconData(0xf1e2);
+  /// Warframe icons requiemOull [IconData] with Unicode 0xf1e2
+  static const IconData requiemOull = WarframeIconData(0xf1e2);
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel2 [IconData] with Unicode 0xf1e3
-  static const IconData sigilsCephalonSudaCephalonSudaLevel2 = WarframeIconData(0xf1e3);
+  /// Warframe icons requiemRis [IconData] with Unicode 0xf1e3
+  static const IconData requiemRis = WarframeIconData(0xf1e3);
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel3 [IconData] with Unicode 0xf1e4
-  static const IconData sigilsCephalonSudaCephalonSudaLevel3 = WarframeIconData(0xf1e4);
+  /// Warframe icons requiemVome [IconData] with Unicode 0xf1e4
+  static const IconData requiemVome = WarframeIconData(0xf1e4);
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel4 [IconData] with Unicode 0xf1e5
-  static const IconData sigilsCephalonSudaCephalonSudaLevel4 = WarframeIconData(0xf1e5);
+  /// Warframe icons requiemXata [IconData] with Unicode 0xf1e5
+  static const IconData requiemXata = WarframeIconData(0xf1e5);
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel5 [IconData] with Unicode 0xf1e6
-  static const IconData sigilsCephalonSudaCephalonSudaLevel5 = WarframeIconData(0xf1e6);
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel1 [IconData] with Unicode 0xf1e6
+  static const IconData sigilsArbitersOfHexisArbitersLevel1 = WarframeIconData(0xf1e6);
 
-  /// Warframe icons sigilsEntratiEntratiLevel1 [IconData] with Unicode 0xf1e7
-  static const IconData sigilsEntratiEntratiLevel1 = WarframeIconData(0xf1e7);
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel2 [IconData] with Unicode 0xf1e7
+  static const IconData sigilsArbitersOfHexisArbitersLevel2 = WarframeIconData(0xf1e7);
 
-  /// Warframe icons sigilsEntratiEntratiLevel2 [IconData] with Unicode 0xf1e8
-  static const IconData sigilsEntratiEntratiLevel2 = WarframeIconData(0xf1e8);
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel3 [IconData] with Unicode 0xf1e8
+  static const IconData sigilsArbitersOfHexisArbitersLevel3 = WarframeIconData(0xf1e8);
 
-  /// Warframe icons sigilsEntratiEntratiLevel3 [IconData] with Unicode 0xf1e9
-  static const IconData sigilsEntratiEntratiLevel3 = WarframeIconData(0xf1e9);
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel4 [IconData] with Unicode 0xf1e9
+  static const IconData sigilsArbitersOfHexisArbitersLevel4 = WarframeIconData(0xf1e9);
 
-  /// Warframe icons sigilsEntratiEntratiLevel4 [IconData] with Unicode 0xf1ea
-  static const IconData sigilsEntratiEntratiLevel4 = WarframeIconData(0xf1ea);
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel5 [IconData] with Unicode 0xf1ea
+  static const IconData sigilsArbitersOfHexisArbitersLevel5 = WarframeIconData(0xf1ea);
 
-  /// Warframe icons sigilsEntratiEntratiLevel5 [IconData] with Unicode 0xf1eb
-  static const IconData sigilsEntratiEntratiLevel5 = WarframeIconData(0xf1eb);
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel1 [IconData] with Unicode 0xf1eb
+  static const IconData sigilsCephalonSudaCephalonSudaLevel1 = WarframeIconData(0xf1eb);
 
-  /// Warframe icons sigilsNecraloidNecraloidLevel1 [IconData] with Unicode 0xf1ec
-  static const IconData sigilsNecraloidNecraloidLevel1 = WarframeIconData(0xf1ec);
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel2 [IconData] with Unicode 0xf1ec
+  static const IconData sigilsCephalonSudaCephalonSudaLevel2 = WarframeIconData(0xf1ec);
 
-  /// Warframe icons sigilsNecraloidNecraloidLevel2 [IconData] with Unicode 0xf1ed
-  static const IconData sigilsNecraloidNecraloidLevel2 = WarframeIconData(0xf1ed);
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel3 [IconData] with Unicode 0xf1ed
+  static const IconData sigilsCephalonSudaCephalonSudaLevel3 = WarframeIconData(0xf1ed);
 
-  /// Warframe icons sigilsNecraloidNecraloidLevel3 [IconData] with Unicode 0xf1ee
-  static const IconData sigilsNecraloidNecraloidLevel3 = WarframeIconData(0xf1ee);
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel4 [IconData] with Unicode 0xf1ee
+  static const IconData sigilsCephalonSudaCephalonSudaLevel4 = WarframeIconData(0xf1ee);
 
-  /// Warframe icons sigilsNegativeRank1 [IconData] with Unicode 0xf1ef
-  static const IconData sigilsNegativeRank1 = WarframeIconData(0xf1ef);
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel5 [IconData] with Unicode 0xf1ef
+  static const IconData sigilsCephalonSudaCephalonSudaLevel5 = WarframeIconData(0xf1ef);
 
-  /// Warframe icons sigilsNegativeRank2 [IconData] with Unicode 0xf1f0
-  static const IconData sigilsNegativeRank2 = WarframeIconData(0xf1f0);
+  /// Warframe icons sigilsEntratiEntratiLevel1 [IconData] with Unicode 0xf1f0
+  static const IconData sigilsEntratiEntratiLevel1 = WarframeIconData(0xf1f0);
 
-  /// Warframe icons sigilsNeutral [IconData] with Unicode 0xf1f1
-  static const IconData sigilsNeutral = WarframeIconData(0xf1f1);
+  /// Warframe icons sigilsEntratiEntratiLevel2 [IconData] with Unicode 0xf1f1
+  static const IconData sigilsEntratiEntratiLevel2 = WarframeIconData(0xf1f1);
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel1 [IconData] with Unicode 0xf1f2
-  static const IconData sigilsNewLokaNewLokaLevel1 = WarframeIconData(0xf1f2);
+  /// Warframe icons sigilsEntratiEntratiLevel3 [IconData] with Unicode 0xf1f2
+  static const IconData sigilsEntratiEntratiLevel3 = WarframeIconData(0xf1f2);
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel2 [IconData] with Unicode 0xf1f3
-  static const IconData sigilsNewLokaNewLokaLevel2 = WarframeIconData(0xf1f3);
+  /// Warframe icons sigilsEntratiEntratiLevel4 [IconData] with Unicode 0xf1f3
+  static const IconData sigilsEntratiEntratiLevel4 = WarframeIconData(0xf1f3);
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel3 [IconData] with Unicode 0xf1f4
-  static const IconData sigilsNewLokaNewLokaLevel3 = WarframeIconData(0xf1f4);
+  /// Warframe icons sigilsEntratiEntratiLevel5 [IconData] with Unicode 0xf1f4
+  static const IconData sigilsEntratiEntratiLevel5 = WarframeIconData(0xf1f4);
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel4 [IconData] with Unicode 0xf1f5
-  static const IconData sigilsNewLokaNewLokaLevel4 = WarframeIconData(0xf1f5);
+  /// Warframe icons sigilsNecraloidNecraloidLevel1 [IconData] with Unicode 0xf1f5
+  static const IconData sigilsNecraloidNecraloidLevel1 = WarframeIconData(0xf1f5);
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel5 [IconData] with Unicode 0xf1f6
-  static const IconData sigilsNewLokaNewLokaLevel5 = WarframeIconData(0xf1f6);
+  /// Warframe icons sigilsNecraloidNecraloidLevel2 [IconData] with Unicode 0xf1f6
+  static const IconData sigilsNecraloidNecraloidLevel2 = WarframeIconData(0xf1f6);
 
-  /// Warframe icons sigilsOstronOstronLevel1 [IconData] with Unicode 0xf1f7
-  static const IconData sigilsOstronOstronLevel1 = WarframeIconData(0xf1f7);
+  /// Warframe icons sigilsNecraloidNecraloidLevel3 [IconData] with Unicode 0xf1f7
+  static const IconData sigilsNecraloidNecraloidLevel3 = WarframeIconData(0xf1f7);
 
-  /// Warframe icons sigilsOstronOstronLevel2 [IconData] with Unicode 0xf1f8
-  static const IconData sigilsOstronOstronLevel2 = WarframeIconData(0xf1f8);
+  /// Warframe icons sigilsNegativeRank1 [IconData] with Unicode 0xf1f8
+  static const IconData sigilsNegativeRank1 = WarframeIconData(0xf1f8);
 
-  /// Warframe icons sigilsOstronOstronLevel3 [IconData] with Unicode 0xf1f9
-  static const IconData sigilsOstronOstronLevel3 = WarframeIconData(0xf1f9);
+  /// Warframe icons sigilsNegativeRank2 [IconData] with Unicode 0xf1f9
+  static const IconData sigilsNegativeRank2 = WarframeIconData(0xf1f9);
 
-  /// Warframe icons sigilsOstronOstronLevel4 [IconData] with Unicode 0xf1fa
-  static const IconData sigilsOstronOstronLevel4 = WarframeIconData(0xf1fa);
+  /// Warframe icons sigilsNeutral [IconData] with Unicode 0xf1fa
+  static const IconData sigilsNeutral = WarframeIconData(0xf1fa);
 
-  /// Warframe icons sigilsOstronOstronLevel5 [IconData] with Unicode 0xf1fb
-  static const IconData sigilsOstronOstronLevel5 = WarframeIconData(0xf1fb);
+  /// Warframe icons sigilsNewLokaNewLokaLevel1 [IconData] with Unicode 0xf1fb
+  static const IconData sigilsNewLokaNewLokaLevel1 = WarframeIconData(0xf1fb);
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel1 [IconData] with Unicode 0xf1fc
-  static const IconData sigilsRedVeilRedVeilLevel1 = WarframeIconData(0xf1fc);
+  /// Warframe icons sigilsNewLokaNewLokaLevel2 [IconData] with Unicode 0xf1fc
+  static const IconData sigilsNewLokaNewLokaLevel2 = WarframeIconData(0xf1fc);
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel2 [IconData] with Unicode 0xf1fd
-  static const IconData sigilsRedVeilRedVeilLevel2 = WarframeIconData(0xf1fd);
+  /// Warframe icons sigilsNewLokaNewLokaLevel3 [IconData] with Unicode 0xf1fd
+  static const IconData sigilsNewLokaNewLokaLevel3 = WarframeIconData(0xf1fd);
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel3 [IconData] with Unicode 0xf1fe
-  static const IconData sigilsRedVeilRedVeilLevel3 = WarframeIconData(0xf1fe);
+  /// Warframe icons sigilsNewLokaNewLokaLevel4 [IconData] with Unicode 0xf1fe
+  static const IconData sigilsNewLokaNewLokaLevel4 = WarframeIconData(0xf1fe);
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel4 [IconData] with Unicode 0xf1ff
-  static const IconData sigilsRedVeilRedVeilLevel4 = WarframeIconData(0xf1ff);
+  /// Warframe icons sigilsNewLokaNewLokaLevel5 [IconData] with Unicode 0xf1ff
+  static const IconData sigilsNewLokaNewLokaLevel5 = WarframeIconData(0xf1ff);
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel5 [IconData] with Unicode 0xf200
-  static const IconData sigilsRedVeilRedVeilLevel5 = WarframeIconData(0xf200);
+  /// Warframe icons sigilsOstronOstronLevel1 [IconData] with Unicode 0xf200
+  static const IconData sigilsOstronOstronLevel1 = WarframeIconData(0xf200);
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel1 [IconData] with Unicode 0xf201
-  static const IconData sigilsSolarisUnitedSolarisLevel1 = WarframeIconData(0xf201);
+  /// Warframe icons sigilsOstronOstronLevel2 [IconData] with Unicode 0xf201
+  static const IconData sigilsOstronOstronLevel2 = WarframeIconData(0xf201);
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel2 [IconData] with Unicode 0xf202
-  static const IconData sigilsSolarisUnitedSolarisLevel2 = WarframeIconData(0xf202);
+  /// Warframe icons sigilsOstronOstronLevel3 [IconData] with Unicode 0xf202
+  static const IconData sigilsOstronOstronLevel3 = WarframeIconData(0xf202);
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel3 [IconData] with Unicode 0xf203
-  static const IconData sigilsSolarisUnitedSolarisLevel3 = WarframeIconData(0xf203);
+  /// Warframe icons sigilsOstronOstronLevel4 [IconData] with Unicode 0xf203
+  static const IconData sigilsOstronOstronLevel4 = WarframeIconData(0xf203);
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel4 [IconData] with Unicode 0xf204
-  static const IconData sigilsSolarisUnitedSolarisLevel4 = WarframeIconData(0xf204);
+  /// Warframe icons sigilsOstronOstronLevel5 [IconData] with Unicode 0xf204
+  static const IconData sigilsOstronOstronLevel5 = WarframeIconData(0xf204);
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel5 [IconData] with Unicode 0xf205
-  static const IconData sigilsSolarisUnitedSolarisLevel5 = WarframeIconData(0xf205);
+  /// Warframe icons sigilsRedVeilRedVeilLevel1 [IconData] with Unicode 0xf205
+  static const IconData sigilsRedVeilRedVeilLevel1 = WarframeIconData(0xf205);
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel1 [IconData] with Unicode 0xf206
-  static const IconData sigilsSteelMeridianSteelMeridianLevel1 = WarframeIconData(0xf206);
+  /// Warframe icons sigilsRedVeilRedVeilLevel2 [IconData] with Unicode 0xf206
+  static const IconData sigilsRedVeilRedVeilLevel2 = WarframeIconData(0xf206);
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel2 [IconData] with Unicode 0xf207
-  static const IconData sigilsSteelMeridianSteelMeridianLevel2 = WarframeIconData(0xf207);
+  /// Warframe icons sigilsRedVeilRedVeilLevel3 [IconData] with Unicode 0xf207
+  static const IconData sigilsRedVeilRedVeilLevel3 = WarframeIconData(0xf207);
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel3 [IconData] with Unicode 0xf208
-  static const IconData sigilsSteelMeridianSteelMeridianLevel3 = WarframeIconData(0xf208);
+  /// Warframe icons sigilsRedVeilRedVeilLevel4 [IconData] with Unicode 0xf208
+  static const IconData sigilsRedVeilRedVeilLevel4 = WarframeIconData(0xf208);
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel4 [IconData] with Unicode 0xf209
-  static const IconData sigilsSteelMeridianSteelMeridianLevel4 = WarframeIconData(0xf209);
+  /// Warframe icons sigilsRedVeilRedVeilLevel5 [IconData] with Unicode 0xf209
+  static const IconData sigilsRedVeilRedVeilLevel5 = WarframeIconData(0xf209);
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel5 [IconData] with Unicode 0xf20a
-  static const IconData sigilsSteelMeridianSteelMeridianLevel5 = WarframeIconData(0xf20a);
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel1 [IconData] with Unicode 0xf20a
+  static const IconData sigilsSolarisUnitedSolarisLevel1 = WarframeIconData(0xf20a);
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel1 [IconData] with Unicode 0xf20b
-  static const IconData sigilsTheHoldfastsHoldfastsLevel1 = WarframeIconData(0xf20b);
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel2 [IconData] with Unicode 0xf20b
+  static const IconData sigilsSolarisUnitedSolarisLevel2 = WarframeIconData(0xf20b);
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel2 [IconData] with Unicode 0xf20c
-  static const IconData sigilsTheHoldfastsHoldfastsLevel2 = WarframeIconData(0xf20c);
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel3 [IconData] with Unicode 0xf20c
+  static const IconData sigilsSolarisUnitedSolarisLevel3 = WarframeIconData(0xf20c);
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel3 [IconData] with Unicode 0xf20d
-  static const IconData sigilsTheHoldfastsHoldfastsLevel3 = WarframeIconData(0xf20d);
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel4 [IconData] with Unicode 0xf20d
+  static const IconData sigilsSolarisUnitedSolarisLevel4 = WarframeIconData(0xf20d);
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel4 [IconData] with Unicode 0xf20e
-  static const IconData sigilsTheHoldfastsHoldfastsLevel4 = WarframeIconData(0xf20e);
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel5 [IconData] with Unicode 0xf20e
+  static const IconData sigilsSolarisUnitedSolarisLevel5 = WarframeIconData(0xf20e);
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel5 [IconData] with Unicode 0xf20f
-  static const IconData sigilsTheHoldfastsHoldfastsLevel5 = WarframeIconData(0xf20f);
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel1 [IconData] with Unicode 0xf20f
+  static const IconData sigilsSteelMeridianSteelMeridianLevel1 = WarframeIconData(0xf20f);
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel1 [IconData] with Unicode 0xf210
-  static const IconData sigilsThePerrinSequencePerrinLevel1 = WarframeIconData(0xf210);
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel2 [IconData] with Unicode 0xf210
+  static const IconData sigilsSteelMeridianSteelMeridianLevel2 = WarframeIconData(0xf210);
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel2 [IconData] with Unicode 0xf211
-  static const IconData sigilsThePerrinSequencePerrinLevel2 = WarframeIconData(0xf211);
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel3 [IconData] with Unicode 0xf211
+  static const IconData sigilsSteelMeridianSteelMeridianLevel3 = WarframeIconData(0xf211);
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel3 [IconData] with Unicode 0xf212
-  static const IconData sigilsThePerrinSequencePerrinLevel3 = WarframeIconData(0xf212);
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel4 [IconData] with Unicode 0xf212
+  static const IconData sigilsSteelMeridianSteelMeridianLevel4 = WarframeIconData(0xf212);
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel4 [IconData] with Unicode 0xf213
-  static const IconData sigilsThePerrinSequencePerrinLevel4 = WarframeIconData(0xf213);
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel5 [IconData] with Unicode 0xf213
+  static const IconData sigilsSteelMeridianSteelMeridianLevel5 = WarframeIconData(0xf213);
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel5 [IconData] with Unicode 0xf214
-  static const IconData sigilsThePerrinSequencePerrinLevel5 = WarframeIconData(0xf214);
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel1 [IconData] with Unicode 0xf214
+  static const IconData sigilsTheHoldfastsHoldfastsLevel1 = WarframeIconData(0xf214);
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel1 [IconData] with Unicode 0xf215
-  static const IconData sigilsTheQuillsQuillsLevel1 = WarframeIconData(0xf215);
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel2 [IconData] with Unicode 0xf215
+  static const IconData sigilsTheHoldfastsHoldfastsLevel2 = WarframeIconData(0xf215);
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel2 [IconData] with Unicode 0xf216
-  static const IconData sigilsTheQuillsQuillsLevel2 = WarframeIconData(0xf216);
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel3 [IconData] with Unicode 0xf216
+  static const IconData sigilsTheHoldfastsHoldfastsLevel3 = WarframeIconData(0xf216);
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel3 [IconData] with Unicode 0xf217
-  static const IconData sigilsTheQuillsQuillsLevel3 = WarframeIconData(0xf217);
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel4 [IconData] with Unicode 0xf217
+  static const IconData sigilsTheHoldfastsHoldfastsLevel4 = WarframeIconData(0xf217);
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel4 [IconData] with Unicode 0xf218
-  static const IconData sigilsTheQuillsQuillsLevel4 = WarframeIconData(0xf218);
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel5 [IconData] with Unicode 0xf218
+  static const IconData sigilsTheHoldfastsHoldfastsLevel5 = WarframeIconData(0xf218);
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel5 [IconData] with Unicode 0xf219
-  static const IconData sigilsTheQuillsQuillsLevel5 = WarframeIconData(0xf219);
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel1 [IconData] with Unicode 0xf219
+  static const IconData sigilsThePerrinSequencePerrinLevel1 = WarframeIconData(0xf219);
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel1 [IconData] with Unicode 0xf21a
-  static const IconData sigilsVentKidsVentKidsLevel1 = WarframeIconData(0xf21a);
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel2 [IconData] with Unicode 0xf21a
+  static const IconData sigilsThePerrinSequencePerrinLevel2 = WarframeIconData(0xf21a);
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel2 [IconData] with Unicode 0xf21b
-  static const IconData sigilsVentKidsVentKidsLevel2 = WarframeIconData(0xf21b);
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel3 [IconData] with Unicode 0xf21b
+  static const IconData sigilsThePerrinSequencePerrinLevel3 = WarframeIconData(0xf21b);
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel3 [IconData] with Unicode 0xf21c
-  static const IconData sigilsVentKidsVentKidsLevel3 = WarframeIconData(0xf21c);
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel4 [IconData] with Unicode 0xf21c
+  static const IconData sigilsThePerrinSequencePerrinLevel4 = WarframeIconData(0xf21c);
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel4 [IconData] with Unicode 0xf21d
-  static const IconData sigilsVentKidsVentKidsLevel4 = WarframeIconData(0xf21d);
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel5 [IconData] with Unicode 0xf21d
+  static const IconData sigilsThePerrinSequencePerrinLevel5 = WarframeIconData(0xf21d);
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel5 [IconData] with Unicode 0xf21e
-  static const IconData sigilsVentKidsVentKidsLevel5 = WarframeIconData(0xf21e);
+  /// Warframe icons sigilsTheQuillsQuillsLevel1 [IconData] with Unicode 0xf21e
+  static const IconData sigilsTheQuillsQuillsLevel1 = WarframeIconData(0xf21e);
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel1 [IconData] with Unicode 0xf21f
-  static const IconData sigilsVoxSolarisVoxLevel1 = WarframeIconData(0xf21f);
+  /// Warframe icons sigilsTheQuillsQuillsLevel2 [IconData] with Unicode 0xf21f
+  static const IconData sigilsTheQuillsQuillsLevel2 = WarframeIconData(0xf21f);
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel2 [IconData] with Unicode 0xf220
-  static const IconData sigilsVoxSolarisVoxLevel2 = WarframeIconData(0xf220);
+  /// Warframe icons sigilsTheQuillsQuillsLevel3 [IconData] with Unicode 0xf220
+  static const IconData sigilsTheQuillsQuillsLevel3 = WarframeIconData(0xf220);
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel3 [IconData] with Unicode 0xf221
-  static const IconData sigilsVoxSolarisVoxLevel3 = WarframeIconData(0xf221);
+  /// Warframe icons sigilsTheQuillsQuillsLevel4 [IconData] with Unicode 0xf221
+  static const IconData sigilsTheQuillsQuillsLevel4 = WarframeIconData(0xf221);
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel4 [IconData] with Unicode 0xf222
-  static const IconData sigilsVoxSolarisVoxLevel4 = WarframeIconData(0xf222);
+  /// Warframe icons sigilsTheQuillsQuillsLevel5 [IconData] with Unicode 0xf222
+  static const IconData sigilsTheQuillsQuillsLevel5 = WarframeIconData(0xf222);
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel5 [IconData] with Unicode 0xf223
-  static const IconData sigilsVoxSolarisVoxLevel5 = WarframeIconData(0xf223);
+  /// Warframe icons sigilsVentKidsVentKidsLevel1 [IconData] with Unicode 0xf223
+  static const IconData sigilsVentKidsVentKidsLevel1 = WarframeIconData(0xf223);
 
-  /// Warframe icons simaris [IconData] with Unicode 0xf224
-  static const IconData simaris = WarframeIconData(0xf224);
+  /// Warframe icons sigilsVentKidsVentKidsLevel2 [IconData] with Unicode 0xf224
+  static const IconData sigilsVentKidsVentKidsLevel2 = WarframeIconData(0xf224);
 
-  /// Warframe icons solaris [IconData] with Unicode 0xf225
-  static const IconData solaris = WarframeIconData(0xf225);
+  /// Warframe icons sigilsVentKidsVentKidsLevel3 [IconData] with Unicode 0xf225
+  static const IconData sigilsVentKidsVentKidsLevel3 = WarframeIconData(0xf225);
 
-  /// Warframe icons spLogo [IconData] with Unicode 0xf226
-  static const IconData spLogo = WarframeIconData(0xf226);
+  /// Warframe icons sigilsVentKidsVentKidsLevel4 [IconData] with Unicode 0xf226
+  static const IconData sigilsVentKidsVentKidsLevel4 = WarframeIconData(0xf226);
 
-  /// Warframe icons standing [IconData] with Unicode 0xf227
-  static const IconData standing = WarframeIconData(0xf227);
+  /// Warframe icons sigilsVentKidsVentKidsLevel5 [IconData] with Unicode 0xf227
+  static const IconData sigilsVentKidsVentKidsLevel5 = WarframeIconData(0xf227);
 
-  /// Warframe icons theHex [IconData] with Unicode 0xf228
-  static const IconData theHex = WarframeIconData(0xf228);
+  /// Warframe icons sigilsVoxSolarisVoxLevel1 [IconData] with Unicode 0xf228
+  static const IconData sigilsVoxSolarisVoxLevel1 = WarframeIconData(0xf228);
 
-  /// Warframe icons wfcd [IconData] with Unicode 0xf229
-  static const IconData wfcd = WarframeIconData(0xf229);
+  /// Warframe icons sigilsVoxSolarisVoxLevel2 [IconData] with Unicode 0xf229
+  static const IconData sigilsVoxSolarisVoxLevel2 = WarframeIconData(0xf229);
+
+  /// Warframe icons sigilsVoxSolarisVoxLevel3 [IconData] with Unicode 0xf22a
+  static const IconData sigilsVoxSolarisVoxLevel3 = WarframeIconData(0xf22a);
+
+  /// Warframe icons sigilsVoxSolarisVoxLevel4 [IconData] with Unicode 0xf22b
+  static const IconData sigilsVoxSolarisVoxLevel4 = WarframeIconData(0xf22b);
+
+  /// Warframe icons sigilsVoxSolarisVoxLevel5 [IconData] with Unicode 0xf22c
+  static const IconData sigilsVoxSolarisVoxLevel5 = WarframeIconData(0xf22c);
+
+  /// Warframe icons simaris [IconData] with Unicode 0xf22d
+  static const IconData simaris = WarframeIconData(0xf22d);
+
+  /// Warframe icons solaris [IconData] with Unicode 0xf22e
+  static const IconData solaris = WarframeIconData(0xf22e);
+
+  /// Warframe icons spLogo [IconData] with Unicode 0xf22f
+  static const IconData spLogo = WarframeIconData(0xf22f);
+
+  /// Warframe icons standing [IconData] with Unicode 0xf230
+  static const IconData standing = WarframeIconData(0xf230);
+
+  /// Warframe icons theHex [IconData] with Unicode 0xf231
+  static const IconData theHex = WarframeIconData(0xf231);
+
+  /// Warframe icons wfcd [IconData] with Unicode 0xf232
+  static const IconData wfcd = WarframeIconData(0xf232);
 }
