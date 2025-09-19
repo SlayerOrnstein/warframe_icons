@@ -17,7 +17,7 @@ dev_dependencies:
   mocktail: ^1.0.4
   recase: ^4.1.0
   unorm_dart: ^0.3.0
-  very_good_analysis: ^7.0.0
+  very_good_analysis: ^10.0.0
   xml: ^6.5.0
 
 flutter:
