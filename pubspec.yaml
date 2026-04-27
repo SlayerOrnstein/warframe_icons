@@ -18,7 +18,7 @@ dev_dependencies:
   recase: ^4.1.0
   unorm_dart: ^0.3.0
   very_good_analysis: ^10.2.0
-  xml: ^6.5.0
+  xml: ^7.0.1
 
 flutter:
   fonts:
