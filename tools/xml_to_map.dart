@@ -3,14 +3,13 @@ import 'package:xml/xml.dart';
 Map<String, String> xmlToIcons(XmlDocument document) {
   final ttFont = document.firstElementChild;
   final cmap = ttFont?.firstElementChild;
-  final relevantChild =
-      cmap?.children.where((XmlNode e) {
-        final correctPlatformID = e.getAttribute('platformID') == '0';
-        final correctplatEncID = e.getAttribute('platEncID') == '3';
-        final correctlanguage = e.getAttribute('language') == '0';
+  final relevantChild = cmap?.children.where((e) {
+    final correctPlatformID = e.getAttribute('platformID') == '0';
+    final correctplatEncID = e.getAttribute('platEncID') == '3';
+    final correctlanguage = e.getAttribute('language') == '0';
 
-        return correctPlatformID && correctplatEncID && correctlanguage;
-      }).first;
+    return correctPlatformID && correctplatEncID && correctlanguage;
+  }).first;
 
   if (relevantChild == null) {
     return <String, String>{};
@@ -19,7 +18,7 @@ Map<String, String> xmlToIcons(XmlDocument document) {
   final mapList = relevantChild.children.whereType<XmlElement>().toList();
 
   final icons = Map<String, String>.fromEntries(
-    mapList.map((XmlElement e) {
+    mapList.map((e) {
       final code = e.attributes.first.value;
       final name = e.attributes.last.value;
       return MapEntry<String, String>(name, code);

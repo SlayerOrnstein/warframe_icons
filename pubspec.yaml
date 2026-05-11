@@ -4,8 +4,8 @@ version: 1.0.0
 publish_to: none
 
 environment:
-  sdk: ^3.7.0
-  flutter: ^3.29.0
+  sdk: ^3.11.0
+  flutter: ^3.41.0
 
 dependencies:
   flutter:
@@ -14,11 +14,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  mocktail: ^1.0.4
+  mocktail: ^1.0.5
   recase: ^4.1.0
-  unorm_dart: ^0.3.0
+  unorm_dart: ^0.3.2
   very_good_analysis: ^10.2.0
-  xml: ^6.5.0
+  xml: ^7.0.1
 
 flutter:
   fonts:
