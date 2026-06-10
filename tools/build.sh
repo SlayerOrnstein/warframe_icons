@@ -13,14 +13,11 @@ cp genesis-assets/fonts/Warframe-Symbols.ttf fonts/Warframe-Symbols.ttf
 cd "fonts"
 
 echo "get ttf xml"
-ttx -t cmap Warframe-Symbols.ttf
+ttx -t cmap Warframe-Symbols.ttf -o Warframe-Symbols.ttx
 
 echo "generating dart file"
-dart "./tools/generate_font.dart"
+dart ./tools/generate_font.dart
 
-echo "formatting dart files"
-dart format "./lib/src/icon_data.g.dart"
-
-rm -r "genesis-assets"
+rm -rf genesis-assets
 
 echo "build process done"

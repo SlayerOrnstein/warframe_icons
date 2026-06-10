@@ -27,1190 +27,1181 @@ class WarframeIcons {
   /// Warframe icons ostron [IconData] with Unicode 0xf107
   static const IconData ostron = IconData(0xf107, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons nightwave [IconData] with Unicode 0xf108
-  static const IconData nightwave = IconData(0xf108, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons normalLogo [IconData] with Unicode 0xf108
+  static const IconData normalLogo = IconData(0xf108, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons nightmare [IconData] with Unicode 0xf109
-  static const IconData nightmare = IconData(0xf109, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons nightwave [IconData] with Unicode 0xf109
+  static const IconData nightwave = IconData(0xf109, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons loading [IconData] with Unicode 0xf10a
-  static const IconData loading = IconData(0xf10a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons nightmare [IconData] with Unicode 0xf10a
+  static const IconData nightmare = IconData(0xf10a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons hexis [IconData] with Unicode 0xf10b
-  static const IconData hexis = IconData(0xf10b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons loading [IconData] with Unicode 0xf10b
+  static const IconData loading = IconData(0xf10b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons entrati [IconData] with Unicode 0xf10c
-  static const IconData entrati = IconData(0xf10c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons hexis [IconData] with Unicode 0xf10c
+  static const IconData hexis = IconData(0xf10c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons emLogo [IconData] with Unicode 0xf10d
-  static const IconData emLogo = IconData(0xf10d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons entrati [IconData] with Unicode 0xf10d
+  static const IconData entrati = IconData(0xf10d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons archwing [IconData] with Unicode 0xf10e
-  static const IconData archwing = IconData(0xf10e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons crossplayLogo [IconData] with Unicode 0xf10e
+  static const IconData crossplayLogo = IconData(0xf10e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons arbitrations [IconData] with Unicode 0xf10f
-  static const IconData arbitrations = IconData(0xf10f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons archwing [IconData] with Unicode 0xf10f
+  static const IconData archwing = IconData(0xf10f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons sigilsNeutral [IconData] with Unicode 0xf110
-  static const IconData sigilsNeutral = IconData(0xf110, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons arbitrations [IconData] with Unicode 0xf110
+  static const IconData arbitrations = IconData(0xf110, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons sigilsNegativeRank2 [IconData] with Unicode 0xf111
-  static const IconData sigilsNegativeRank2 = IconData(0xf111, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons sigilsNeutral [IconData] with Unicode 0xf111
+  static const IconData sigilsNeutral = IconData(0xf111, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons sigilsNegativeRank1 [IconData] with Unicode 0xf112
-  static const IconData sigilsNegativeRank1 = IconData(0xf112, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons sigilsNegativeRank2 [IconData] with Unicode 0xf112
+  static const IconData sigilsNegativeRank2 = IconData(0xf112, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemXata [IconData] with Unicode 0xf113
-  static const IconData requiemXata = IconData(0xf113, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons sigilsNegativeRank1 [IconData] with Unicode 0xf113
+  static const IconData sigilsNegativeRank1 = IconData(0xf113, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemVome [IconData] with Unicode 0xf114
-  static const IconData requiemVome = IconData(0xf114, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemXata [IconData] with Unicode 0xf114
+  static const IconData requiemXata = IconData(0xf114, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemRis [IconData] with Unicode 0xf115
-  static const IconData requiemRis = IconData(0xf115, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemVome [IconData] with Unicode 0xf115
+  static const IconData requiemVome = IconData(0xf115, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemOull [IconData] with Unicode 0xf116
-  static const IconData requiemOull = IconData(0xf116, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemRis [IconData] with Unicode 0xf116
+  static const IconData requiemRis = IconData(0xf116, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemNetra [IconData] with Unicode 0xf117
-  static const IconData requiemNetra = IconData(0xf117, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemOull [IconData] with Unicode 0xf117
+  static const IconData requiemOull = IconData(0xf117, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemLohk [IconData] with Unicode 0xf118
-  static const IconData requiemLohk = IconData(0xf118, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemNetra [IconData] with Unicode 0xf118
+  static const IconData requiemNetra = IconData(0xf118, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemKhra [IconData] with Unicode 0xf119
-  static const IconData requiemKhra = IconData(0xf119, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemLohk [IconData] with Unicode 0xf119
+  static const IconData requiemLohk = IconData(0xf119, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemJahu [IconData] with Unicode 0xf11a
-  static const IconData requiemJahu = IconData(0xf11a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemKhra [IconData] with Unicode 0xf11a
+  static const IconData requiemKhra = IconData(0xf11a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons requiemFass [IconData] with Unicode 0xf11b
-  static const IconData requiemFass = IconData(0xf11b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemJahu [IconData] with Unicode 0xf11b
+  static const IconData requiemJahu = IconData(0xf11b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons nightwavesWeekly [IconData] with Unicode 0xf11c
-  static const IconData nightwavesWeekly = IconData(0xf11c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons requiemFass [IconData] with Unicode 0xf11c
+  static const IconData requiemFass = IconData(0xf11c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons nightwavesElite [IconData] with Unicode 0xf11d
-  static const IconData nightwavesElite = IconData(0xf11d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons nightwavesWeekly [IconData] with Unicode 0xf11d
+  static const IconData nightwavesWeekly = IconData(0xf11d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons nightwavesDaily [IconData] with Unicode 0xf11e
-  static const IconData nightwavesDaily = IconData(0xf11e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons nightwavesElite [IconData] with Unicode 0xf11e
+  static const IconData nightwavesElite = IconData(0xf11e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuWoundedInfestedPredator [IconData] with Unicode 0xf11f
+  /// Warframe icons nightwavesDaily [IconData] with Unicode 0xf11f
+  static const IconData nightwavesDaily = IconData(0xf11f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Warframe icons menuWoundedInfestedPredator [IconData] with Unicode 0xf120
   static const IconData menuWoundedInfestedPredator = IconData(
-    0xf11f,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Warframe icons menuWoundedInfestedCritter [IconData] with Unicode 0xf120
-  static const IconData menuWoundedInfestedCritter = IconData(
     0xf120,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons menuWild [IconData] with Unicode 0xf121
-  static const IconData menuWild = IconData(0xf121, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuWoundedInfestedCritter [IconData] with Unicode 0xf121
+  static const IconData menuWoundedInfestedCritter = IconData(
+    0xf121,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
 
-  /// Warframe icons menuWeapons [IconData] with Unicode 0xf122
-  static const IconData menuWeapons = IconData(0xf122, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuWild [IconData] with Unicode 0xf122
+  static const IconData menuWild = IconData(0xf122, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuWarframeOff [IconData] with Unicode 0xf123
-  static const IconData menuWarframeOff = IconData(0xf123, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuWeapons [IconData] with Unicode 0xf123
+  static const IconData menuWeapons = IconData(0xf123, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuWarframe [IconData] with Unicode 0xf124
-  static const IconData menuWarframe = IconData(0xf124, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuWarframeOff [IconData] with Unicode 0xf124
+  static const IconData menuWarframeOff = IconData(0xf124, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuVehiclesKdrive [IconData] with Unicode 0xf125
-  static const IconData menuVehiclesKdrive = IconData(0xf125, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuWarframe [IconData] with Unicode 0xf125
+  static const IconData menuWarframe = IconData(0xf125, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuUtility2 [IconData] with Unicode 0xf126
-  static const IconData menuUtility2 = IconData(0xf126, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuVehiclesKdrive [IconData] with Unicode 0xf126
+  static const IconData menuVehiclesKdrive = IconData(0xf126, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuUtility [IconData] with Unicode 0xf127
-  static const IconData menuUtility = IconData(0xf127, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuUtility2 [IconData] with Unicode 0xf127
+  static const IconData menuUtility2 = IconData(0xf127, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuTenets [IconData] with Unicode 0xf128
-  static const IconData menuTenets = IconData(0xf128, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuUtility [IconData] with Unicode 0xf128
+  static const IconData menuUtility = IconData(0xf128, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuTeleport [IconData] with Unicode 0xf129
-  static const IconData menuTeleport = IconData(0xf129, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuTenets [IconData] with Unicode 0xf129
+  static const IconData menuTenets = IconData(0xf129, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuTactical [IconData] with Unicode 0xf12a
-  static const IconData menuTactical = IconData(0xf12a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuTeleport [IconData] with Unicode 0xf12a
+  static const IconData menuTeleport = IconData(0xf12a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSynthetics2 [IconData] with Unicode 0xf12b
-  static const IconData menuSynthetics2 = IconData(0xf12b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuTactical [IconData] with Unicode 0xf12b
+  static const IconData menuTactical = IconData(0xf12b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSynthetics [IconData] with Unicode 0xf12c
-  static const IconData menuSynthetics = IconData(0xf12c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSynthetics2 [IconData] with Unicode 0xf12c
+  static const IconData menuSynthetics2 = IconData(0xf12c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSwatch [IconData] with Unicode 0xf12d
-  static const IconData menuSwatch = IconData(0xf12d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSynthetics [IconData] with Unicode 0xf12d
+  static const IconData menuSynthetics = IconData(0xf12d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuStrike [IconData] with Unicode 0xf12e
-  static const IconData menuStrike = IconData(0xf12e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSwatch [IconData] with Unicode 0xf12e
+  static const IconData menuSwatch = IconData(0xf12e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuStance [IconData] with Unicode 0xf12f
-  static const IconData menuStance = IconData(0xf12f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuStrike [IconData] with Unicode 0xf12f
+  static const IconData menuStrike = IconData(0xf12f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSquareVial [IconData] with Unicode 0xf130
-  static const IconData menuSquareVial = IconData(0xf130, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuStance [IconData] with Unicode 0xf130
+  static const IconData menuStance = IconData(0xf130, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSolaris [IconData] with Unicode 0xf131
-  static const IconData menuSolaris = IconData(0xf131, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSquareVial [IconData] with Unicode 0xf131
+  static const IconData menuSquareVial = IconData(0xf131, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSkins [IconData] with Unicode 0xf132
-  static const IconData menuSkins = IconData(0xf132, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSolaris [IconData] with Unicode 0xf132
+  static const IconData menuSolaris = IconData(0xf132, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSimaris [IconData] with Unicode 0xf133
-  static const IconData menuSimaris = IconData(0xf133, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSkins [IconData] with Unicode 0xf133
+  static const IconData menuSkins = IconData(0xf133, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSigils [IconData] with Unicode 0xf134
-  static const IconData menuSigils = IconData(0xf134, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSimaris [IconData] with Unicode 0xf134
+  static const IconData menuSimaris = IconData(0xf134, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuShotgun [IconData] with Unicode 0xf135
-  static const IconData menuShotgun = IconData(0xf135, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSigils [IconData] with Unicode 0xf135
+  static const IconData menuSigils = IconData(0xf135, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSentinel [IconData] with Unicode 0xf136
-  static const IconData menuSentinel = IconData(0xf136, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuShotgun [IconData] with Unicode 0xf136
+  static const IconData menuShotgun = IconData(0xf136, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuSalvage [IconData] with Unicode 0xf137
-  static const IconData menuSalvage = IconData(0xf137, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSentinel [IconData] with Unicode 0xf137
+  static const IconData menuSentinel = IconData(0xf137, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRoundVial [IconData] with Unicode 0xf138
-  static const IconData menuRoundVial = IconData(0xf138, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuSalvage [IconData] with Unicode 0xf138
+  static const IconData menuSalvage = IconData(0xf138, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRivenMod [IconData] with Unicode 0xf139
-  static const IconData menuRivenMod = IconData(0xf139, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRoundVial [IconData] with Unicode 0xf139
+  static const IconData menuRoundVial = IconData(0xf139, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRifleOff [IconData] with Unicode 0xf13a
-  static const IconData menuRifleOff = IconData(0xf13a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRivenMod [IconData] with Unicode 0xf13a
+  static const IconData menuRivenMod = IconData(0xf13a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRifle [IconData] with Unicode 0xf13b
-  static const IconData menuRifle = IconData(0xf13b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRifleOff [IconData] with Unicode 0xf13b
+  static const IconData menuRifleOff = IconData(0xf13b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuResourceDrone [IconData] with Unicode 0xf13c
-  static const IconData menuResourceDrone = IconData(0xf13c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRifle [IconData] with Unicode 0xf13c
+  static const IconData menuRifle = IconData(0xf13c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuResearchTenno [IconData] with Unicode 0xf13d
-  static const IconData menuResearchTenno = IconData(0xf13d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuResourceDrone [IconData] with Unicode 0xf13d
+  static const IconData menuResourceDrone = IconData(0xf13d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuResearchRailjack [IconData] with Unicode 0xf13e
-  static const IconData menuResearchRailjack = IconData(0xf13e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuResearchTenno [IconData] with Unicode 0xf13e
+  static const IconData menuResearchTenno = IconData(0xf13e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuResearchOrokin [IconData] with Unicode 0xf13f
-  static const IconData menuResearchOrokin = IconData(0xf13f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuResearchRailjack [IconData] with Unicode 0xf13f
+  static const IconData menuResearchRailjack = IconData(0xf13f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuResearchInfested [IconData] with Unicode 0xf140
-  static const IconData menuResearchInfested = IconData(0xf140, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuResearchOrokin [IconData] with Unicode 0xf140
+  static const IconData menuResearchOrokin = IconData(0xf140, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuResearchGrineer [IconData] with Unicode 0xf141
-  static const IconData menuResearchGrineer = IconData(0xf141, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuResearchInfested [IconData] with Unicode 0xf141
+  static const IconData menuResearchInfested = IconData(0xf141, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuResearchCorpus [IconData] with Unicode 0xf142
-  static const IconData menuResearchCorpus = IconData(0xf142, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuResearchGrineer [IconData] with Unicode 0xf142
+  static const IconData menuResearchGrineer = IconData(0xf142, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRequirementsMet [IconData] with Unicode 0xf143
-  static const IconData menuRequirementsMet = IconData(0xf143, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuResearchCorpus [IconData] with Unicode 0xf143
+  static const IconData menuResearchCorpus = IconData(0xf143, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRequiemRelic [IconData] with Unicode 0xf144
-  static const IconData menuRequiemRelic = IconData(0xf144, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRequirementsMet [IconData] with Unicode 0xf144
+  static const IconData menuRequirementsMet = IconData(0xf144, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRequiemMod [IconData] with Unicode 0xf145
-  static const IconData menuRequiemMod = IconData(0xf145, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRequiemRelic [IconData] with Unicode 0xf145
+  static const IconData menuRequiemRelic = IconData(0xf145, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRelicNeo [IconData] with Unicode 0xf146
-  static const IconData menuRelicNeo = IconData(0xf146, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRequiemMod [IconData] with Unicode 0xf146
+  static const IconData menuRequiemMod = IconData(0xf146, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRelicMeso [IconData] with Unicode 0xf147
-  static const IconData menuRelicMeso = IconData(0xf147, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRelicNeo [IconData] with Unicode 0xf147
+  static const IconData menuRelicNeo = IconData(0xf147, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRelicLith [IconData] with Unicode 0xf148
-  static const IconData menuRelicLith = IconData(0xf148, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRelicMeso [IconData] with Unicode 0xf148
+  static const IconData menuRelicMeso = IconData(0xf148, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRelicAxi [IconData] with Unicode 0xf149
-  static const IconData menuRelicAxi = IconData(0xf149, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRelicLith [IconData] with Unicode 0xf149
+  static const IconData menuRelicLith = IconData(0xf149, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRelic [IconData] with Unicode 0xf14a
-  static const IconData menuRelic = IconData(0xf14a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRelicAxi [IconData] with Unicode 0xf14a
+  static const IconData menuRelicAxi = IconData(0xf14a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRelatedItems [IconData] with Unicode 0xf14b
-  static const IconData menuRelatedItems = IconData(0xf14b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRelic [IconData] with Unicode 0xf14b
+  static const IconData menuRelic = IconData(0xf14b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRailjackTurrets [IconData] with Unicode 0xf14c
-  static const IconData menuRailjackTurrets = IconData(0xf14c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRelatedItems [IconData] with Unicode 0xf14c
+  static const IconData menuRelatedItems = IconData(0xf14c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRailjackPilot [IconData] with Unicode 0xf14d
-  static const IconData menuRailjackPilot = IconData(0xf14d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRailjackTurrets [IconData] with Unicode 0xf14d
+  static const IconData menuRailjackTurrets = IconData(0xf14d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRailjackOrdnance [IconData] with Unicode 0xf14e
-  static const IconData menuRailjackOrdnance = IconData(0xf14e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRailjackPilot [IconData] with Unicode 0xf14e
+  static const IconData menuRailjackPilot = IconData(0xf14e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRailjackCountermeasures [IconData] with Unicode 0xf14f
+  /// Warframe icons menuRailjackOrdnance [IconData] with Unicode 0xf14f
+  static const IconData menuRailjackOrdnance = IconData(0xf14f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+
+  /// Warframe icons menuRailjackCountermeasures [IconData] with Unicode 0xf150
   static const IconData menuRailjackCountermeasures = IconData(
-    0xf14f,
+    0xf150,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons menuRailjackAbilities [IconData] with Unicode 0xf150
-  static const IconData menuRailjackAbilities = IconData(0xf150, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRailjackAbilities [IconData] with Unicode 0xf151
+  static const IconData menuRailjackAbilities = IconData(0xf151, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRailjack2 [IconData] with Unicode 0xf151
-  static const IconData menuRailjack2 = IconData(0xf151, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRailjack2 [IconData] with Unicode 0xf152
+  static const IconData menuRailjack2 = IconData(0xf152, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuRailjack [IconData] with Unicode 0xf152
-  static const IconData menuRailjack = IconData(0xf152, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuRailjack [IconData] with Unicode 0xf153
+  static const IconData menuRailjack = IconData(0xf153, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuQuestPickerMystery [IconData] with Unicode 0xf153
-  static const IconData menuQuestPickerMystery = IconData(0xf153, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuQuestPickerMystery [IconData] with Unicode 0xf154
+  static const IconData menuQuestPickerMystery = IconData(0xf154, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuQuestPickerCompleted [IconData] with Unicode 0xf154
-  static const IconData menuQuestPickerCompleted = IconData(0xf154, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuQuestPickerCompleted [IconData] with Unicode 0xf155
+  static const IconData menuQuestPickerCompleted = IconData(0xf155, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuQuestPickerActive [IconData] with Unicode 0xf155
-  static const IconData menuQuestPickerActive = IconData(0xf155, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuQuestPickerActive [IconData] with Unicode 0xf156
+  static const IconData menuQuestPickerActive = IconData(0xf156, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPurchase [IconData] with Unicode 0xf156
-  static const IconData menuPurchase = IconData(0xf156, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPurchase [IconData] with Unicode 0xf157
+  static const IconData menuPurchase = IconData(0xf157, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuProspector [IconData] with Unicode 0xf157
-  static const IconData menuProspector = IconData(0xf157, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuProspector [IconData] with Unicode 0xf158
+  static const IconData menuProspector = IconData(0xf158, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPrimeParts [IconData] with Unicode 0xf158
-  static const IconData menuPrimeParts = IconData(0xf158, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPrimeParts [IconData] with Unicode 0xf159
+  static const IconData menuPrimeParts = IconData(0xf159, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPrimaryWeaponSpecial [IconData] with Unicode 0xf159
-  static const IconData menuPrimaryWeaponSpecial = IconData(0xf159, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPrimaryWeaponSpecial [IconData] with Unicode 0xf15a
+  static const IconData menuPrimaryWeaponSpecial = IconData(0xf15a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPrimaryWeaponSpeargun [IconData] with Unicode 0xf15a
+  /// Warframe icons menuPrimaryWeaponSpeargun [IconData] with Unicode 0xf15b
   static const IconData menuPrimaryWeaponSpeargun = IconData(
-    0xf15a,
+    0xf15b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons menuPrimaryWeaponSniper [IconData] with Unicode 0xf15b
-  static const IconData menuPrimaryWeaponSniper = IconData(0xf15b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPrimaryWeaponSniper [IconData] with Unicode 0xf15c
+  static const IconData menuPrimaryWeaponSniper = IconData(0xf15c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPrimaryWeaponShotgun [IconData] with Unicode 0xf15c
-  static const IconData menuPrimaryWeaponShotgun = IconData(0xf15c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPrimaryWeaponShotgun [IconData] with Unicode 0xf15d
+  static const IconData menuPrimaryWeaponShotgun = IconData(0xf15d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPrimaryWeaponRifle [IconData] with Unicode 0xf15d
-  static const IconData menuPrimaryWeaponRifle = IconData(0xf15d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPrimaryWeaponRifle [IconData] with Unicode 0xf15e
+  static const IconData menuPrimaryWeaponRifle = IconData(0xf15e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPrimaryWeaponLauncher [IconData] with Unicode 0xf15e
+  /// Warframe icons menuPrimaryWeaponLauncher [IconData] with Unicode 0xf15f
   static const IconData menuPrimaryWeaponLauncher = IconData(
-    0xf15e,
+    0xf15f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons menuPrimaryWeaponBow [IconData] with Unicode 0xf15f
-  static const IconData menuPrimaryWeaponBow = IconData(0xf15f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPrimaryWeaponBow [IconData] with Unicode 0xf160
+  static const IconData menuPrimaryWeaponBow = IconData(0xf160, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPrexCategory [IconData] with Unicode 0xf160
-  static const IconData menuPrexCategory = IconData(0xf160, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPrexCategory [IconData] with Unicode 0xf161
+  static const IconData menuPrexCategory = IconData(0xf161, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPlayerShip [IconData] with Unicode 0xf161
-  static const IconData menuPlayerShip = IconData(0xf161, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPlayerShip [IconData] with Unicode 0xf162
+  static const IconData menuPlayerShip = IconData(0xf162, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPistol [IconData] with Unicode 0xf162
-  static const IconData menuPistol = IconData(0xf162, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPistol [IconData] with Unicode 0xf163
+  static const IconData menuPistol = IconData(0xf163, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPilot [IconData] with Unicode 0xf163
-  static const IconData menuPilot = IconData(0xf163, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPilot [IconData] with Unicode 0xf164
+  static const IconData menuPilot = IconData(0xf164, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuPheromones [IconData] with Unicode 0xf164
-  static const IconData menuPheromones = IconData(0xf164, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuPheromones [IconData] with Unicode 0xf165
+  static const IconData menuPheromones = IconData(0xf165, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuParazonLongShadow2 [IconData] with Unicode 0xf165
-  static const IconData menuParazonLongShadow2 = IconData(0xf165, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuParazonLongShadow2 [IconData] with Unicode 0xf166
+  static const IconData menuParazonLongShadow2 = IconData(0xf166, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuParazonLongShadow [IconData] with Unicode 0xf166
-  static const IconData menuParazonLongShadow = IconData(0xf166, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuParazonLongShadow [IconData] with Unicode 0xf167
+  static const IconData menuParazonLongShadow = IconData(0xf167, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuParazonLong [IconData] with Unicode 0xf167
-  static const IconData menuParazonLong = IconData(0xf167, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuParazonLong [IconData] with Unicode 0xf168
+  static const IconData menuParazonLong = IconData(0xf168, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuParazon [IconData] with Unicode 0xf168
-  static const IconData menuParazon = IconData(0xf168, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuParazon [IconData] with Unicode 0xf169
+  static const IconData menuParazon = IconData(0xf169, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuOxides [IconData] with Unicode 0xf169
-  static const IconData menuOxides = IconData(0xf169, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuOxides [IconData] with Unicode 0xf16a
+  static const IconData menuOxides = IconData(0xf16a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuOwnedBlueprint [IconData] with Unicode 0xf16a
-  static const IconData menuOwnedBlueprint = IconData(0xf16a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuOwnedBlueprint [IconData] with Unicode 0xf16b
+  static const IconData menuOwnedBlueprint = IconData(0xf16b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuOrokinOn [IconData] with Unicode 0xf16b
-  static const IconData menuOrokinOn = IconData(0xf16b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuOrokinOn [IconData] with Unicode 0xf16c
+  static const IconData menuOrokinOn = IconData(0xf16c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuOperator [IconData] with Unicode 0xf16c
-  static const IconData menuOperator = IconData(0xf16c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuOperator [IconData] with Unicode 0xf16d
+  static const IconData menuOperator = IconData(0xf16d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuNoggles [IconData] with Unicode 0xf16d
-  static const IconData menuNoggles = IconData(0xf16d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuNoggles [IconData] with Unicode 0xf16e
+  static const IconData menuNoggles = IconData(0xf16e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuNatural [IconData] with Unicode 0xf16e
-  static const IconData menuNatural = IconData(0xf16e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuNatural [IconData] with Unicode 0xf16f
+  static const IconData menuNatural = IconData(0xf16f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuModularItem [IconData] with Unicode 0xf16f
-  static const IconData menuModularItem = IconData(0xf16f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuModularItem [IconData] with Unicode 0xf170
+  static const IconData menuModularItem = IconData(0xf170, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMods [IconData] with Unicode 0xf170
-  static const IconData menuMods = IconData(0xf170, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMods [IconData] with Unicode 0xf171
+  static const IconData menuMods = IconData(0xf171, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMkIII [IconData] with Unicode 0xf171
-  static const IconData menuMkIII = IconData(0xf171, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMkIII [IconData] with Unicode 0xf172
+  static const IconData menuMkIII = IconData(0xf172, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMkII [IconData] with Unicode 0xf172
-  static const IconData menuMkII = IconData(0xf172, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMkII [IconData] with Unicode 0xf173
+  static const IconData menuMkII = IconData(0xf173, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMkI [IconData] with Unicode 0xf173
-  static const IconData menuMkI = IconData(0xf173, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMkI [IconData] with Unicode 0xf174
+  static const IconData menuMkI = IconData(0xf174, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMisc [IconData] with Unicode 0xf174
-  static const IconData menuMisc = IconData(0xf174, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMisc [IconData] with Unicode 0xf175
+  static const IconData menuMisc = IconData(0xf175, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMelee [IconData] with Unicode 0xf175
-  static const IconData menuMelee = IconData(0xf175, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMelee [IconData] with Unicode 0xf176
+  static const IconData menuMelee = IconData(0xf176, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMechBoard [IconData] with Unicode 0xf176
-  static const IconData menuMechBoard = IconData(0xf176, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMechBoard [IconData] with Unicode 0xf177
+  static const IconData menuMechBoard = IconData(0xf177, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMech [IconData] with Unicode 0xf177
-  static const IconData menuMech = IconData(0xf177, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMech [IconData] with Unicode 0xf178
+  static const IconData menuMech = IconData(0xf178, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMaterialsOff [IconData] with Unicode 0xf178
-  static const IconData menuMaterialsOff = IconData(0xf178, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMaterialsOff [IconData] with Unicode 0xf179
+  static const IconData menuMaterialsOff = IconData(0xf179, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuMaterials [IconData] with Unicode 0xf179
-  static const IconData menuMaterials = IconData(0xf179, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuMaterials [IconData] with Unicode 0xf17a
+  static const IconData menuMaterials = IconData(0xf17a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuManufacturerZekti [IconData] with Unicode 0xf17a
-  static const IconData menuManufacturerZekti = IconData(0xf17a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuManufacturerZekti [IconData] with Unicode 0xf17b
+  static const IconData menuManufacturerZekti = IconData(0xf17b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuManufacturerVidar [IconData] with Unicode 0xf17b
-  static const IconData menuManufacturerVidar = IconData(0xf17b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuManufacturerVidar [IconData] with Unicode 0xf17c
+  static const IconData menuManufacturerVidar = IconData(0xf17c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuManufacturerSigma [IconData] with Unicode 0xf17c
-  static const IconData menuManufacturerSigma = IconData(0xf17c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuManufacturerSigma [IconData] with Unicode 0xf17d
+  static const IconData menuManufacturerSigma = IconData(0xf17d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuManufacturerLavan [IconData] with Unicode 0xf17d
-  static const IconData menuManufacturerLavan = IconData(0xf17d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuManufacturerLavan [IconData] with Unicode 0xf17e
+  static const IconData menuManufacturerLavan = IconData(0xf17e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuLotusEmblem [IconData] with Unicode 0xf17e
-  static const IconData menuLotusEmblem = IconData(0xf17e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuLotusEmblem [IconData] with Unicode 0xf17f
+  static const IconData menuLotusEmblem = IconData(0xf17f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuLink [IconData] with Unicode 0xf17f
-  static const IconData menuLink = IconData(0xf17f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuLink [IconData] with Unicode 0xf180
+  static const IconData menuLink = IconData(0xf180, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuLimitedTime [IconData] with Unicode 0xf180
-  static const IconData menuLimitedTime = IconData(0xf180, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuLimitedTime [IconData] with Unicode 0xf181
+  static const IconData menuLimitedTime = IconData(0xf181, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuLichCategory [IconData] with Unicode 0xf181
-  static const IconData menuLichCategory = IconData(0xf181, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuLichCategory [IconData] with Unicode 0xf182
+  static const IconData menuLichCategory = IconData(0xf182, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuLab [IconData] with Unicode 0xf182
-  static const IconData menuLab = IconData(0xf182, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuLab [IconData] with Unicode 0xf183
+  static const IconData menuLab = IconData(0xf183, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuKuvaLichVanquished [IconData] with Unicode 0xf183
-  static const IconData menuKuvaLichVanquished = IconData(0xf183, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuKuvaLichVanquished [IconData] with Unicode 0xf184
+  static const IconData menuKuvaLichVanquished = IconData(0xf184, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuKuvaLichTraded [IconData] with Unicode 0xf184
-  static const IconData menuKuvaLichTraded = IconData(0xf184, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuKuvaLichTraded [IconData] with Unicode 0xf185
+  static const IconData menuKuvaLichTraded = IconData(0xf185, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuKuvaLichConverted [IconData] with Unicode 0xf185
-  static const IconData menuKuvaLichConverted = IconData(0xf185, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuKuvaLichConverted [IconData] with Unicode 0xf186
+  static const IconData menuKuvaLichConverted = IconData(0xf186, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuKuvaLichActive [IconData] with Unicode 0xf186
-  static const IconData menuKuvaLichActive = IconData(0xf186, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuKuvaLichActive [IconData] with Unicode 0xf187
+  static const IconData menuKuvaLichActive = IconData(0xf187, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuKubrow [IconData] with Unicode 0xf187
-  static const IconData menuKubrow = IconData(0xf187, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuKubrow [IconData] with Unicode 0xf188
+  static const IconData menuKubrow = IconData(0xf188, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuKeys [IconData] with Unicode 0xf188
-  static const IconData menuKeys = IconData(0xf188, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuKeys [IconData] with Unicode 0xf189
+  static const IconData menuKeys = IconData(0xf189, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuKavat [IconData] with Unicode 0xf189
-  static const IconData menuKavat = IconData(0xf189, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuKavat [IconData] with Unicode 0xf18a
+  static const IconData menuKavat = IconData(0xf18a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuInfested [IconData] with Unicode 0xf18a
-  static const IconData menuInfested = IconData(0xf18a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuInfested [IconData] with Unicode 0xf18b
+  static const IconData menuInfested = IconData(0xf18b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuIndividualObstacleCourse [IconData] with Unicode 0xf18b
+  /// Warframe icons menuIndividualObstacleCourse [IconData] with Unicode 0xf18c
   static const IconData menuIndividualObstacleCourse = IconData(
-    0xf18b,
+    0xf18c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons menuIncomplete [IconData] with Unicode 0xf18c
-  static const IconData menuIncomplete = IconData(0xf18c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuIncomplete [IconData] with Unicode 0xf18d
+  static const IconData menuIncomplete = IconData(0xf18d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuHall [IconData] with Unicode 0xf18d
-  static const IconData menuHall = IconData(0xf18d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuHall [IconData] with Unicode 0xf18e
+  static const IconData menuHall = IconData(0xf18e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGunnery [IconData] with Unicode 0xf18e
-  static const IconData menuGunnery = IconData(0xf18e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGunnery [IconData] with Unicode 0xf18f
+  static const IconData menuGunnery = IconData(0xf18f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGrip [IconData] with Unicode 0xf18f
-  static const IconData menuGrip = IconData(0xf18f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGrip [IconData] with Unicode 0xf190
+  static const IconData menuGrip = IconData(0xf190, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGrineer [IconData] with Unicode 0xf190
-  static const IconData menuGrineer = IconData(0xf190, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGrineer [IconData] with Unicode 0xf191
+  static const IconData menuGrineer = IconData(0xf191, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGlyph [IconData] with Unicode 0xf191
-  static const IconData menuGlyph = IconData(0xf191, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGlyph [IconData] with Unicode 0xf192
+  static const IconData menuGlyph = IconData(0xf192, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGift [IconData] with Unicode 0xf192
-  static const IconData menuGift = IconData(0xf192, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGift [IconData] with Unicode 0xf193
+  static const IconData menuGift = IconData(0xf193, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGhouls [IconData] with Unicode 0xf193
-  static const IconData menuGhouls = IconData(0xf193, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGhouls [IconData] with Unicode 0xf194
+  static const IconData menuGhouls = IconData(0xf194, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGeneticImprint [IconData] with Unicode 0xf194
-  static const IconData menuGeneticImprint = IconData(0xf194, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGeneticImprint [IconData] with Unicode 0xf195
+  static const IconData menuGeneticImprint = IconData(0xf195, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGearWheel [IconData] with Unicode 0xf195
-  static const IconData menuGearWheel = IconData(0xf195, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGearWheel [IconData] with Unicode 0xf196
+  static const IconData menuGearWheel = IconData(0xf196, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGear [IconData] with Unicode 0xf196
-  static const IconData menuGear = IconData(0xf196, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGear [IconData] with Unicode 0xf197
+  static const IconData menuGear = IconData(0xf197, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGarden [IconData] with Unicode 0xf197
-  static const IconData menuGarden = IconData(0xf197, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGarden [IconData] with Unicode 0xf198
+  static const IconData menuGarden = IconData(0xf198, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuGara [IconData] with Unicode 0xf198
-  static const IconData menuGara = IconData(0xf198, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuGara [IconData] with Unicode 0xf199
+  static const IconData menuGara = IconData(0xf199, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuFx [IconData] with Unicode 0xf199
-  static const IconData menuFx = IconData(0xf199, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuFx [IconData] with Unicode 0xf19a
+  static const IconData menuFx = IconData(0xf19a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuFusion [IconData] with Unicode 0xf19a
-  static const IconData menuFusion = IconData(0xf19a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuFusion [IconData] with Unicode 0xf19b
+  static const IconData menuFusion = IconData(0xf19b, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuFishSmall [IconData] with Unicode 0xf19b
-  static const IconData menuFishSmall = IconData(0xf19b, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuFishSmall [IconData] with Unicode 0xf19c
+  static const IconData menuFishSmall = IconData(0xf19c, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuFishMedium [IconData] with Unicode 0xf19c
-  static const IconData menuFishMedium = IconData(0xf19c, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuFishMedium [IconData] with Unicode 0xf19d
+  static const IconData menuFishMedium = IconData(0xf19d, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuFishLarge [IconData] with Unicode 0xf19d
-  static const IconData menuFishLarge = IconData(0xf19d, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuFishLarge [IconData] with Unicode 0xf19e
+  static const IconData menuFishLarge = IconData(0xf19e, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuFavorite [IconData] with Unicode 0xf19e
-  static const IconData menuFavorite = IconData(0xf19e, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuFavorite [IconData] with Unicode 0xf19f
+  static const IconData menuFavorite = IconData(0xf19f, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuExilus [IconData] with Unicode 0xf19f
-  static const IconData menuExilus = IconData(0xf19f, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuExilus [IconData] with Unicode 0xf1a0
+  static const IconData menuExilus = IconData(0xf1a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuEquip [IconData] with Unicode 0xf1a0
-  static const IconData menuEquip = IconData(0xf1a0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuEquip [IconData] with Unicode 0xf1a1
+  static const IconData menuEquip = IconData(0xf1a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuEntrati [IconData] with Unicode 0xf1a1
-  static const IconData menuEntrati = IconData(0xf1a1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuEntrati [IconData] with Unicode 0xf1a2
+  static const IconData menuEntrati = IconData(0xf1a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuEngineering [IconData] with Unicode 0xf1a2
-  static const IconData menuEngineering = IconData(0xf1a2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuEngineering [IconData] with Unicode 0xf1a3
+  static const IconData menuEngineering = IconData(0xf1a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuEnergy [IconData] with Unicode 0xf1a3
-  static const IconData menuEnergy = IconData(0xf1a3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuEnergy [IconData] with Unicode 0xf1a4
+  static const IconData menuEnergy = IconData(0xf1a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuEmotes [IconData] with Unicode 0xf1a4
-  static const IconData menuEmotes = IconData(0xf1a4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuEmotes [IconData] with Unicode 0xf1a5
+  static const IconData menuEmotes = IconData(0xf1a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuDuplicate [IconData] with Unicode 0xf1a5
-  static const IconData menuDuplicate = IconData(0xf1a5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuDuplicate [IconData] with Unicode 0xf1a6
+  static const IconData menuDuplicate = IconData(0xf1a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuDrone [IconData] with Unicode 0xf1a6
-  static const IconData menuDrone = IconData(0xf1a6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuDrone [IconData] with Unicode 0xf1a7
+  static const IconData menuDrone = IconData(0xf1a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuDisplays [IconData] with Unicode 0xf1a7
-  static const IconData menuDisplays = IconData(0xf1a7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuDisplays [IconData] with Unicode 0xf1a8
+  static const IconData menuDisplays = IconData(0xf1a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingMoaModel [IconData] with Unicode 0xf1a8
-  static const IconData menuCraftingMoaModel = IconData(0xf1a8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingMoaModel [IconData] with Unicode 0xf1a9
+  static const IconData menuCraftingMoaModel = IconData(0xf1a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingMoaGyro [IconData] with Unicode 0xf1a9
-  static const IconData menuCraftingMoaGyro = IconData(0xf1a9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingMoaGyro [IconData] with Unicode 0xf1aa
+  static const IconData menuCraftingMoaGyro = IconData(0xf1aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingMoaCore [IconData] with Unicode 0xf1aa
-  static const IconData menuCraftingMoaCore = IconData(0xf1aa, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingMoaCore [IconData] with Unicode 0xf1ab
+  static const IconData menuCraftingMoaCore = IconData(0xf1ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingMoaBrackets [IconData] with Unicode 0xf1ab
-  static const IconData menuCraftingMoaBrackets = IconData(0xf1ab, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingMoaBrackets [IconData] with Unicode 0xf1ac
+  static const IconData menuCraftingMoaBrackets = IconData(0xf1ac, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingKitgunPrimaryGrip [IconData] with Unicode 0xf1ac
+  /// Warframe icons menuCraftingKitgunPrimaryGrip [IconData] with Unicode 0xf1ad
   static const IconData menuCraftingKitgunPrimaryGrip = IconData(
-    0xf1ac,
+    0xf1ad,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons menuCraftingKitgunLoader [IconData] with Unicode 0xf1ad
-  static const IconData menuCraftingKitgunLoader = IconData(0xf1ad, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingKitgunLoader [IconData] with Unicode 0xf1ae
+  static const IconData menuCraftingKitgunLoader = IconData(0xf1ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingKitgunGrip [IconData] with Unicode 0xf1ae
-  static const IconData menuCraftingKitgunGrip = IconData(0xf1ae, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingKitgunGrip [IconData] with Unicode 0xf1af
+  static const IconData menuCraftingKitgunGrip = IconData(0xf1af, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingKitgunChamber [IconData] with Unicode 0xf1af
+  /// Warframe icons menuCraftingKitgunChamber [IconData] with Unicode 0xf1b0
   static const IconData menuCraftingKitgunChamber = IconData(
-    0xf1af,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Warframe icons menuCraftingKDriveReactor [IconData] with Unicode 0xf1b0
-  static const IconData menuCraftingKDriveReactor = IconData(
     0xf1b0,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons menuCraftingKDriveNose [IconData] with Unicode 0xf1b1
-  static const IconData menuCraftingKDriveNose = IconData(0xf1b1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingKDriveReactor [IconData] with Unicode 0xf1b1
+  static const IconData menuCraftingKDriveReactor = IconData(
+    0xf1b1,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
 
-  /// Warframe icons menuCraftingKDriveJet [IconData] with Unicode 0xf1b2
-  static const IconData menuCraftingKDriveJet = IconData(0xf1b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingKDriveNose [IconData] with Unicode 0xf1b2
+  static const IconData menuCraftingKDriveNose = IconData(0xf1b2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingKDriveBoard [IconData] with Unicode 0xf1b3
-  static const IconData menuCraftingKDriveBoard = IconData(0xf1b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingKDriveJet [IconData] with Unicode 0xf1b3
+  static const IconData menuCraftingKDriveJet = IconData(0xf1b3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingHoundTail [IconData] with Unicode 0xf1b4
-  static const IconData menuCraftingHoundTail = IconData(0xf1b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingKDriveBoard [IconData] with Unicode 0xf1b4
+  static const IconData menuCraftingKDriveBoard = IconData(0xf1b4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingHoundLegs [IconData] with Unicode 0xf1b5
-  static const IconData menuCraftingHoundLegs = IconData(0xf1b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingHoundTail [IconData] with Unicode 0xf1b5
+  static const IconData menuCraftingHoundTail = IconData(0xf1b5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingHoundHead [IconData] with Unicode 0xf1b6
-  static const IconData menuCraftingHoundHead = IconData(0xf1b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingHoundLegs [IconData] with Unicode 0xf1b6
+  static const IconData menuCraftingHoundLegs = IconData(0xf1b6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingHoundBody [IconData] with Unicode 0xf1b7
-  static const IconData menuCraftingHoundBody = IconData(0xf1b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingHoundHead [IconData] with Unicode 0xf1b7
+  static const IconData menuCraftingHoundHead = IconData(0xf1b7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingAmpScaffold [IconData] with Unicode 0xf1b8
-  static const IconData menuCraftingAmpScaffold = IconData(0xf1b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingHoundBody [IconData] with Unicode 0xf1b8
+  static const IconData menuCraftingHoundBody = IconData(0xf1b8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingAmpPrism [IconData] with Unicode 0xf1b9
-  static const IconData menuCraftingAmpPrism = IconData(0xf1b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingAmpScaffold [IconData] with Unicode 0xf1b9
+  static const IconData menuCraftingAmpScaffold = IconData(0xf1b9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCraftingAmpBrace [IconData] with Unicode 0xf1ba
-  static const IconData menuCraftingAmpBrace = IconData(0xf1ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingAmpPrism [IconData] with Unicode 0xf1ba
+  static const IconData menuCraftingAmpPrism = IconData(0xf1ba, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCorpus [IconData] with Unicode 0xf1bb
-  static const IconData menuCorpus = IconData(0xf1bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCraftingAmpBrace [IconData] with Unicode 0xf1bb
+  static const IconData menuCraftingAmpBrace = IconData(0xf1bb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuConnector [IconData] with Unicode 0xf1bc
-  static const IconData menuConnector = IconData(0xf1bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCorpus [IconData] with Unicode 0xf1bc
+  static const IconData menuCorpus = IconData(0xf1bc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCommand [IconData] with Unicode 0xf1bd
-  static const IconData menuCommand = IconData(0xf1bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuConnector [IconData] with Unicode 0xf1bd
+  static const IconData menuConnector = IconData(0xf1bd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuClanObstacleCourse [IconData] with Unicode 0xf1be
-  static const IconData menuClanObstacleCourse = IconData(0xf1be, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCommand [IconData] with Unicode 0xf1be
+  static const IconData menuCommand = IconData(0xf1be, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuChangeSkins [IconData] with Unicode 0xf1bf
-  static const IconData menuChangeSkins = IconData(0xf1bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuClanObstacleCourse [IconData] with Unicode 0xf1bf
+  static const IconData menuClanObstacleCourse = IconData(0xf1bf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCetusElder [IconData] with Unicode 0xf1c0
-  static const IconData menuCetusElder = IconData(0xf1c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuChangeSkins [IconData] with Unicode 0xf1c0
+  static const IconData menuChangeSkins = IconData(0xf1c0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCephalon [IconData] with Unicode 0xf1c1
-  static const IconData menuCephalon = IconData(0xf1c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCetusElder [IconData] with Unicode 0xf1c1
+  static const IconData menuCetusElder = IconData(0xf1c1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCapacity [IconData] with Unicode 0xf1c2
-  static const IconData menuCapacity = IconData(0xf1c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCephalon [IconData] with Unicode 0xf1c2
+  static const IconData menuCephalon = IconData(0xf1c2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuCalx [IconData] with Unicode 0xf1c3
-  static const IconData menuCalx = IconData(0xf1c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCapacity [IconData] with Unicode 0xf1c3
+  static const IconData menuCapacity = IconData(0xf1c3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuBuild [IconData] with Unicode 0xf1c4
-  static const IconData menuBuild = IconData(0xf1c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuCalx [IconData] with Unicode 0xf1c4
+  static const IconData menuCalx = IconData(0xf1c4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuBlueprint [IconData] with Unicode 0xf1c5
-  static const IconData menuBlueprint = IconData(0xf1c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuBuild [IconData] with Unicode 0xf1c5
+  static const IconData menuBuild = IconData(0xf1c5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuBiotics [IconData] with Unicode 0xf1c6
-  static const IconData menuBiotics = IconData(0xf1c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuBlueprint [IconData] with Unicode 0xf1c6
+  static const IconData menuBlueprint = IconData(0xf1c6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuBile [IconData] with Unicode 0xf1c7
-  static const IconData menuBile = IconData(0xf1c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuBiotics [IconData] with Unicode 0xf1c7
+  static const IconData menuBiotics = IconData(0xf1c7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuBarracks [IconData] with Unicode 0xf1c8
-  static const IconData menuBarracks = IconData(0xf1c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuBile [IconData] with Unicode 0xf1c8
+  static const IconData menuBile = IconData(0xf1c8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAvionicsTactical [IconData] with Unicode 0xf1c9
-  static const IconData menuAvionicsTactical = IconData(0xf1c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuBarracks [IconData] with Unicode 0xf1c9
+  static const IconData menuBarracks = IconData(0xf1c9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAvionicsSuper [IconData] with Unicode 0xf1ca
-  static const IconData menuAvionicsSuper = IconData(0xf1ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAvionicsTactical [IconData] with Unicode 0xf1ca
+  static const IconData menuAvionicsTactical = IconData(0xf1ca, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAvionicsOffensive [IconData] with Unicode 0xf1cb
-  static const IconData menuAvionicsOffensive = IconData(0xf1cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAvionicsSuper [IconData] with Unicode 0xf1cb
+  static const IconData menuAvionicsSuper = IconData(0xf1cb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAvionicsDefensive [IconData] with Unicode 0xf1cc
-  static const IconData menuAvionicsDefensive = IconData(0xf1cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAvionicsOffensive [IconData] with Unicode 0xf1cc
+  static const IconData menuAvionicsOffensive = IconData(0xf1cc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAvionics [IconData] with Unicode 0xf1cd
-  static const IconData menuAvionics = IconData(0xf1cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAvionicsDefensive [IconData] with Unicode 0xf1cd
+  static const IconData menuAvionicsDefensive = IconData(0xf1cd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAura [IconData] with Unicode 0xf1ce
-  static const IconData menuAura = IconData(0xf1ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAvionics [IconData] with Unicode 0xf1ce
+  static const IconData menuAvionics = IconData(0xf1ce, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAugment [IconData] with Unicode 0xf1cf
-  static const IconData menuAugment = IconData(0xf1cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAura [IconData] with Unicode 0xf1cf
+  static const IconData menuAura = IconData(0xf1cf, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuArmor [IconData] with Unicode 0xf1d0
-  static const IconData menuArmor = IconData(0xf1d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAugment [IconData] with Unicode 0xf1d0
+  static const IconData menuAugment = IconData(0xf1d0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuArchwingSecondary [IconData] with Unicode 0xf1d1
-  static const IconData menuArchwingSecondary = IconData(0xf1d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuArmor [IconData] with Unicode 0xf1d1
+  static const IconData menuArmor = IconData(0xf1d1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuArchwingPrimary [IconData] with Unicode 0xf1d2
-  static const IconData menuArchwingPrimary = IconData(0xf1d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuArchwingSecondary [IconData] with Unicode 0xf1d2
+  static const IconData menuArchwingSecondary = IconData(0xf1d2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuArchwingEmblem [IconData] with Unicode 0xf1d3
-  static const IconData menuArchwingEmblem = IconData(0xf1d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuArchwingPrimary [IconData] with Unicode 0xf1d3
+  static const IconData menuArchwingPrimary = IconData(0xf1d3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuArchwingColour [IconData] with Unicode 0xf1d4
-  static const IconData menuArchwingColour = IconData(0xf1d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuArchwingEmblem [IconData] with Unicode 0xf1d4
+  static const IconData menuArchwingEmblem = IconData(0xf1d4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuArchwing [IconData] with Unicode 0xf1d5
-  static const IconData menuArchwing = IconData(0xf1d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuArchwingColour [IconData] with Unicode 0xf1d5
+  static const IconData menuArchwingColour = IconData(0xf1d5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuArcane [IconData] with Unicode 0xf1d6
-  static const IconData menuArcane = IconData(0xf1d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuArchwing [IconData] with Unicode 0xf1d6
+  static const IconData menuArchwing = IconData(0xf1d6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAmp [IconData] with Unicode 0xf1d7
-  static const IconData menuAmp = IconData(0xf1d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuArcane [IconData] with Unicode 0xf1d7
+  static const IconData menuArcane = IconData(0xf1d7, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons menuAll [IconData] with Unicode 0xf1d8
-  static const IconData menuAll = IconData(0xf1d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAmp [IconData] with Unicode 0xf1d8
+  static const IconData menuAmp = IconData(0xf1d8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons kuvaKuvaflood [IconData] with Unicode 0xf1d9
-  static const IconData kuvaKuvaflood = IconData(0xf1d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons menuAll [IconData] with Unicode 0xf1d9
+  static const IconData menuAll = IconData(0xf1d9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons kuvaKuva [IconData] with Unicode 0xf1da
-  static const IconData kuvaKuva = IconData(0xf1da, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons kuvaKuvaflood [IconData] with Unicode 0xf1da
+  static const IconData kuvaKuvaflood = IconData(0xf1da, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissuresRequiem [IconData] with Unicode 0xf1db
-  static const IconData fissuresRequiem = IconData(0xf1db, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons kuvaKuva [IconData] with Unicode 0xf1db
+  static const IconData kuvaKuva = IconData(0xf1db, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissuresNeo [IconData] with Unicode 0xf1dc
-  static const IconData fissuresNeo = IconData(0xf1dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissuresRequiem [IconData] with Unicode 0xf1dc
+  static const IconData fissuresRequiem = IconData(0xf1dc, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissuresMeso [IconData] with Unicode 0xf1dd
-  static const IconData fissuresMeso = IconData(0xf1dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissuresNeo [IconData] with Unicode 0xf1dd
+  static const IconData fissuresNeo = IconData(0xf1dd, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissuresLith [IconData] with Unicode 0xf1de
-  static const IconData fissuresLith = IconData(0xf1de, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissuresMeso [IconData] with Unicode 0xf1de
+  static const IconData fissuresMeso = IconData(0xf1de, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissuresAxi [IconData] with Unicode 0xf1df
-  static const IconData fissuresAxi = IconData(0xf1df, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissuresLith [IconData] with Unicode 0xf1df
+  static const IconData fissuresLith = IconData(0xf1df, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissures5 [IconData] with Unicode 0xf1e0
-  static const IconData fissures5 = IconData(0xf1e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissuresAxi [IconData] with Unicode 0xf1e0
+  static const IconData fissuresAxi = IconData(0xf1e0, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissures4 [IconData] with Unicode 0xf1e1
-  static const IconData fissures4 = IconData(0xf1e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissures5 [IconData] with Unicode 0xf1e1
+  static const IconData fissures5 = IconData(0xf1e1, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissures3 [IconData] with Unicode 0xf1e2
-  static const IconData fissures3 = IconData(0xf1e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissures4 [IconData] with Unicode 0xf1e2
+  static const IconData fissures4 = IconData(0xf1e2, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissures2 [IconData] with Unicode 0xf1e3
-  static const IconData fissures2 = IconData(0xf1e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissures3 [IconData] with Unicode 0xf1e3
+  static const IconData fissures3 = IconData(0xf1e3, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons fissures1 [IconData] with Unicode 0xf1e4
-  static const IconData fissures1 = IconData(0xf1e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissures2 [IconData] with Unicode 0xf1e4
+  static const IconData fissures2 = IconData(0xf1e4, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons factionsSentient [IconData] with Unicode 0xf1e5
-  static const IconData factionsSentient = IconData(0xf1e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons fissures1 [IconData] with Unicode 0xf1e5
+  static const IconData fissures1 = IconData(0xf1e5, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons factionsNarmer2 [IconData] with Unicode 0xf1e6
-  static const IconData factionsNarmer2 = IconData(0xf1e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons factionsSentient [IconData] with Unicode 0xf1e6
+  static const IconData factionsSentient = IconData(0xf1e6, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons factionsNarmer [IconData] with Unicode 0xf1e7
-  static const IconData factionsNarmer = IconData(0xf1e7, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons factionsNarmer2 [IconData] with Unicode 0xf1e8
+  static const IconData factionsNarmer2 = IconData(0xf1e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons factionsMurmur [IconData] with Unicode 0xf1e8
-  static const IconData factionsMurmur = IconData(0xf1e8, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons factionsMurmur [IconData] with Unicode 0xf1e9
+  static const IconData factionsMurmur = IconData(0xf1e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons factionsInfested [IconData] with Unicode 0xf1e9
-  static const IconData factionsInfested = IconData(0xf1e9, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons factionsInfested [IconData] with Unicode 0xf1ea
+  static const IconData factionsInfested = IconData(0xf1ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons factionsGrineer [IconData] with Unicode 0xf1ea
-  static const IconData factionsGrineer = IconData(0xf1ea, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons factionsGrineer [IconData] with Unicode 0xf1eb
+  static const IconData factionsGrineer = IconData(0xf1eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons factionsCorrupted [IconData] with Unicode 0xf1eb
-  static const IconData factionsCorrupted = IconData(0xf1eb, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons factionsCorrupted [IconData] with Unicode 0xf1ec
+  static const IconData factionsCorrupted = IconData(0xf1ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons factionsCorpus [IconData] with Unicode 0xf1ec
-  static const IconData factionsCorpus = IconData(0xf1ec, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons factionsCorpus [IconData] with Unicode 0xf1ed
+  static const IconData factionsCorpus = IconData(0xf1ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons damageSlash [IconData] with Unicode 0xf1ed
-  static const IconData damageSlash = IconData(0xf1ed, fontFamily: _fontFamily, fontPackage: _fontPackage);
-
-  /// Warframe icons damagePuncture [IconData] with Unicode 0xf1ee
-  static const IconData damagePuncture = IconData(0xf1ee, fontFamily: _fontFamily, fontPackage: _fontPackage);
-
-  /// Warframe icons damageImpact [IconData] with Unicode 0xf1ef
-  static const IconData damageImpact = IconData(0xf1ef, fontFamily: _fontFamily, fontPackage: _fontPackage);
-
-  /// Warframe icons sigilsVoxSolarisVoxLevel5 [IconData] with Unicode 0xf1f0
+  /// Warframe icons sigilsVoxSolarisVoxLevel5 [IconData] with Unicode 0xf1ee
   static const IconData sigilsVoxSolarisVoxLevel5 = IconData(
+    0xf1ee,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Warframe icons sigilsVoxSolarisVoxLevel4 [IconData] with Unicode 0xf1ef
+  static const IconData sigilsVoxSolarisVoxLevel4 = IconData(
+    0xf1ef,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Warframe icons sigilsVoxSolarisVoxLevel3 [IconData] with Unicode 0xf1f0
+  static const IconData sigilsVoxSolarisVoxLevel3 = IconData(
     0xf1f0,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel4 [IconData] with Unicode 0xf1f1
-  static const IconData sigilsVoxSolarisVoxLevel4 = IconData(
+  /// Warframe icons sigilsVoxSolarisVoxLevel2 [IconData] with Unicode 0xf1f1
+  static const IconData sigilsVoxSolarisVoxLevel2 = IconData(
     0xf1f1,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel3 [IconData] with Unicode 0xf1f2
-  static const IconData sigilsVoxSolarisVoxLevel3 = IconData(
+  /// Warframe icons sigilsVoxSolarisVoxLevel1 [IconData] with Unicode 0xf1f2
+  static const IconData sigilsVoxSolarisVoxLevel1 = IconData(
     0xf1f2,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel2 [IconData] with Unicode 0xf1f3
-  static const IconData sigilsVoxSolarisVoxLevel2 = IconData(
+  /// Warframe icons sigilsVentKidsVentKidsLevel5 [IconData] with Unicode 0xf1f3
+  static const IconData sigilsVentKidsVentKidsLevel5 = IconData(
     0xf1f3,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVoxSolarisVoxLevel1 [IconData] with Unicode 0xf1f4
-  static const IconData sigilsVoxSolarisVoxLevel1 = IconData(
+  /// Warframe icons sigilsVentKidsVentKidsLevel4 [IconData] with Unicode 0xf1f4
+  static const IconData sigilsVentKidsVentKidsLevel4 = IconData(
     0xf1f4,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel5 [IconData] with Unicode 0xf1f5
-  static const IconData sigilsVentKidsVentKidsLevel5 = IconData(
+  /// Warframe icons sigilsVentKidsVentKidsLevel3 [IconData] with Unicode 0xf1f5
+  static const IconData sigilsVentKidsVentKidsLevel3 = IconData(
     0xf1f5,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel4 [IconData] with Unicode 0xf1f6
-  static const IconData sigilsVentKidsVentKidsLevel4 = IconData(
+  /// Warframe icons sigilsVentKidsVentKidsLevel2 [IconData] with Unicode 0xf1f6
+  static const IconData sigilsVentKidsVentKidsLevel2 = IconData(
     0xf1f6,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel3 [IconData] with Unicode 0xf1f7
-  static const IconData sigilsVentKidsVentKidsLevel3 = IconData(
+  /// Warframe icons sigilsVentKidsVentKidsLevel1 [IconData] with Unicode 0xf1f7
+  static const IconData sigilsVentKidsVentKidsLevel1 = IconData(
     0xf1f7,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel2 [IconData] with Unicode 0xf1f8
-  static const IconData sigilsVentKidsVentKidsLevel2 = IconData(
+  /// Warframe icons sigilsTheQuillsQuillsLevel5 [IconData] with Unicode 0xf1f8
+  static const IconData sigilsTheQuillsQuillsLevel5 = IconData(
     0xf1f8,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsVentKidsVentKidsLevel1 [IconData] with Unicode 0xf1f9
-  static const IconData sigilsVentKidsVentKidsLevel1 = IconData(
+  /// Warframe icons sigilsTheQuillsQuillsLevel4 [IconData] with Unicode 0xf1f9
+  static const IconData sigilsTheQuillsQuillsLevel4 = IconData(
     0xf1f9,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel5 [IconData] with Unicode 0xf1fa
-  static const IconData sigilsTheQuillsQuillsLevel5 = IconData(
+  /// Warframe icons sigilsTheQuillsQuillsLevel3 [IconData] with Unicode 0xf1fa
+  static const IconData sigilsTheQuillsQuillsLevel3 = IconData(
     0xf1fa,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel4 [IconData] with Unicode 0xf1fb
-  static const IconData sigilsTheQuillsQuillsLevel4 = IconData(
+  /// Warframe icons sigilsTheQuillsQuillsLevel2 [IconData] with Unicode 0xf1fb
+  static const IconData sigilsTheQuillsQuillsLevel2 = IconData(
     0xf1fb,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel3 [IconData] with Unicode 0xf1fc
-  static const IconData sigilsTheQuillsQuillsLevel3 = IconData(
+  /// Warframe icons sigilsTheQuillsQuillsLevel1 [IconData] with Unicode 0xf1fc
+  static const IconData sigilsTheQuillsQuillsLevel1 = IconData(
     0xf1fc,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel2 [IconData] with Unicode 0xf1fd
-  static const IconData sigilsTheQuillsQuillsLevel2 = IconData(
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel5 [IconData] with Unicode 0xf1fd
+  static const IconData sigilsThePerrinSequencePerrinLevel5 = IconData(
     0xf1fd,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheQuillsQuillsLevel1 [IconData] with Unicode 0xf1fe
-  static const IconData sigilsTheQuillsQuillsLevel1 = IconData(
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel4 [IconData] with Unicode 0xf1fe
+  static const IconData sigilsThePerrinSequencePerrinLevel4 = IconData(
     0xf1fe,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel5 [IconData] with Unicode 0xf1ff
-  static const IconData sigilsThePerrinSequencePerrinLevel5 = IconData(
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel3 [IconData] with Unicode 0xf1ff
+  static const IconData sigilsThePerrinSequencePerrinLevel3 = IconData(
     0xf1ff,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel4 [IconData] with Unicode 0xf200
-  static const IconData sigilsThePerrinSequencePerrinLevel4 = IconData(
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel2 [IconData] with Unicode 0xf200
+  static const IconData sigilsThePerrinSequencePerrinLevel2 = IconData(
     0xf200,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel3 [IconData] with Unicode 0xf201
-  static const IconData sigilsThePerrinSequencePerrinLevel3 = IconData(
+  /// Warframe icons sigilsThePerrinSequencePerrinLevel1 [IconData] with Unicode 0xf201
+  static const IconData sigilsThePerrinSequencePerrinLevel1 = IconData(
     0xf201,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel2 [IconData] with Unicode 0xf202
-  static const IconData sigilsThePerrinSequencePerrinLevel2 = IconData(
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel5 [IconData] with Unicode 0xf202
+  static const IconData sigilsTheHoldfastsHoldfastsLevel5 = IconData(
     0xf202,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsThePerrinSequencePerrinLevel1 [IconData] with Unicode 0xf203
-  static const IconData sigilsThePerrinSequencePerrinLevel1 = IconData(
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel4 [IconData] with Unicode 0xf203
+  static const IconData sigilsTheHoldfastsHoldfastsLevel4 = IconData(
     0xf203,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel5 [IconData] with Unicode 0xf204
-  static const IconData sigilsTheHoldfastsHoldfastsLevel5 = IconData(
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel3 [IconData] with Unicode 0xf204
+  static const IconData sigilsTheHoldfastsHoldfastsLevel3 = IconData(
     0xf204,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel4 [IconData] with Unicode 0xf205
-  static const IconData sigilsTheHoldfastsHoldfastsLevel4 = IconData(
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel2 [IconData] with Unicode 0xf205
+  static const IconData sigilsTheHoldfastsHoldfastsLevel2 = IconData(
     0xf205,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel3 [IconData] with Unicode 0xf206
-  static const IconData sigilsTheHoldfastsHoldfastsLevel3 = IconData(
+  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel1 [IconData] with Unicode 0xf206
+  static const IconData sigilsTheHoldfastsHoldfastsLevel1 = IconData(
     0xf206,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel2 [IconData] with Unicode 0xf207
-  static const IconData sigilsTheHoldfastsHoldfastsLevel2 = IconData(
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel5 [IconData] with Unicode 0xf207
+  static const IconData sigilsSteelMeridianSteelMeridianLevel5 = IconData(
     0xf207,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsTheHoldfastsHoldfastsLevel1 [IconData] with Unicode 0xf208
-  static const IconData sigilsTheHoldfastsHoldfastsLevel1 = IconData(
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel4 [IconData] with Unicode 0xf208
+  static const IconData sigilsSteelMeridianSteelMeridianLevel4 = IconData(
     0xf208,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel5 [IconData] with Unicode 0xf209
-  static const IconData sigilsSteelMeridianSteelMeridianLevel5 = IconData(
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel3 [IconData] with Unicode 0xf209
+  static const IconData sigilsSteelMeridianSteelMeridianLevel3 = IconData(
     0xf209,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel4 [IconData] with Unicode 0xf20a
-  static const IconData sigilsSteelMeridianSteelMeridianLevel4 = IconData(
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel2 [IconData] with Unicode 0xf20a
+  static const IconData sigilsSteelMeridianSteelMeridianLevel2 = IconData(
     0xf20a,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel3 [IconData] with Unicode 0xf20b
-  static const IconData sigilsSteelMeridianSteelMeridianLevel3 = IconData(
+  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel1 [IconData] with Unicode 0xf20b
+  static const IconData sigilsSteelMeridianSteelMeridianLevel1 = IconData(
     0xf20b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel2 [IconData] with Unicode 0xf20c
-  static const IconData sigilsSteelMeridianSteelMeridianLevel2 = IconData(
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel5 [IconData] with Unicode 0xf20c
+  static const IconData sigilsSolarisUnitedSolarisLevel5 = IconData(
     0xf20c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSteelMeridianSteelMeridianLevel1 [IconData] with Unicode 0xf20d
-  static const IconData sigilsSteelMeridianSteelMeridianLevel1 = IconData(
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel4 [IconData] with Unicode 0xf20d
+  static const IconData sigilsSolarisUnitedSolarisLevel4 = IconData(
     0xf20d,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel5 [IconData] with Unicode 0xf20e
-  static const IconData sigilsSolarisUnitedSolarisLevel5 = IconData(
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel3 [IconData] with Unicode 0xf20e
+  static const IconData sigilsSolarisUnitedSolarisLevel3 = IconData(
     0xf20e,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel4 [IconData] with Unicode 0xf20f
-  static const IconData sigilsSolarisUnitedSolarisLevel4 = IconData(
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel2 [IconData] with Unicode 0xf20f
+  static const IconData sigilsSolarisUnitedSolarisLevel2 = IconData(
     0xf20f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel3 [IconData] with Unicode 0xf210
-  static const IconData sigilsSolarisUnitedSolarisLevel3 = IconData(
+  /// Warframe icons sigilsSolarisUnitedSolarisLevel1 [IconData] with Unicode 0xf210
+  static const IconData sigilsSolarisUnitedSolarisLevel1 = IconData(
     0xf210,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel2 [IconData] with Unicode 0xf211
-  static const IconData sigilsSolarisUnitedSolarisLevel2 = IconData(
+  /// Warframe icons sigilsRedVeilRedVeilLevel5 [IconData] with Unicode 0xf211
+  static const IconData sigilsRedVeilRedVeilLevel5 = IconData(
     0xf211,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsSolarisUnitedSolarisLevel1 [IconData] with Unicode 0xf212
-  static const IconData sigilsSolarisUnitedSolarisLevel1 = IconData(
+  /// Warframe icons sigilsRedVeilRedVeilLevel4 [IconData] with Unicode 0xf212
+  static const IconData sigilsRedVeilRedVeilLevel4 = IconData(
     0xf212,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel5 [IconData] with Unicode 0xf213
-  static const IconData sigilsRedVeilRedVeilLevel5 = IconData(
+  /// Warframe icons sigilsRedVeilRedVeilLevel3 [IconData] with Unicode 0xf213
+  static const IconData sigilsRedVeilRedVeilLevel3 = IconData(
     0xf213,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel4 [IconData] with Unicode 0xf214
-  static const IconData sigilsRedVeilRedVeilLevel4 = IconData(
+  /// Warframe icons sigilsRedVeilRedVeilLevel2 [IconData] with Unicode 0xf214
+  static const IconData sigilsRedVeilRedVeilLevel2 = IconData(
     0xf214,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel3 [IconData] with Unicode 0xf215
-  static const IconData sigilsRedVeilRedVeilLevel3 = IconData(
+  /// Warframe icons sigilsRedVeilRedVeilLevel1 [IconData] with Unicode 0xf215
+  static const IconData sigilsRedVeilRedVeilLevel1 = IconData(
     0xf215,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel2 [IconData] with Unicode 0xf216
-  static const IconData sigilsRedVeilRedVeilLevel2 = IconData(
-    0xf216,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
+  /// Warframe icons sigilsOstronOstronLevel5 [IconData] with Unicode 0xf216
+  static const IconData sigilsOstronOstronLevel5 = IconData(0xf216, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons sigilsRedVeilRedVeilLevel1 [IconData] with Unicode 0xf217
-  static const IconData sigilsRedVeilRedVeilLevel1 = IconData(
-    0xf217,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
+  /// Warframe icons sigilsOstronOstronLevel4 [IconData] with Unicode 0xf217
+  static const IconData sigilsOstronOstronLevel4 = IconData(0xf217, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons sigilsOstronOstronLevel5 [IconData] with Unicode 0xf218
-  static const IconData sigilsOstronOstronLevel5 = IconData(0xf218, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons sigilsOstronOstronLevel3 [IconData] with Unicode 0xf218
+  static const IconData sigilsOstronOstronLevel3 = IconData(0xf218, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons sigilsOstronOstronLevel4 [IconData] with Unicode 0xf219
-  static const IconData sigilsOstronOstronLevel4 = IconData(0xf219, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons sigilsOstronOstronLevel2 [IconData] with Unicode 0xf219
+  static const IconData sigilsOstronOstronLevel2 = IconData(0xf219, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons sigilsOstronOstronLevel3 [IconData] with Unicode 0xf21a
-  static const IconData sigilsOstronOstronLevel3 = IconData(0xf21a, fontFamily: _fontFamily, fontPackage: _fontPackage);
+  /// Warframe icons sigilsOstronOstronLevel1 [IconData] with Unicode 0xf21a
+  static const IconData sigilsOstronOstronLevel1 = IconData(0xf21a, fontFamily: _fontFamily, fontPackage: _fontPackage);
 
-  /// Warframe icons sigilsOstronOstronLevel2 [IconData] with Unicode 0xf21b
-  static const IconData sigilsOstronOstronLevel2 = IconData(0xf21b, fontFamily: _fontFamily, fontPackage: _fontPackage);
-
-  /// Warframe icons sigilsOstronOstronLevel1 [IconData] with Unicode 0xf21c
-  static const IconData sigilsOstronOstronLevel1 = IconData(0xf21c, fontFamily: _fontFamily, fontPackage: _fontPackage);
-
-  /// Warframe icons sigilsNewLokaNewLokaLevel5 [IconData] with Unicode 0xf21d
+  /// Warframe icons sigilsNewLokaNewLokaLevel5 [IconData] with Unicode 0xf21b
   static const IconData sigilsNewLokaNewLokaLevel5 = IconData(
+    0xf21b,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Warframe icons sigilsNewLokaNewLokaLevel4 [IconData] with Unicode 0xf21c
+  static const IconData sigilsNewLokaNewLokaLevel4 = IconData(
+    0xf21c,
+    fontFamily: _fontFamily,
+    fontPackage: _fontPackage,
+  );
+
+  /// Warframe icons sigilsNewLokaNewLokaLevel3 [IconData] with Unicode 0xf21d
+  static const IconData sigilsNewLokaNewLokaLevel3 = IconData(
     0xf21d,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel4 [IconData] with Unicode 0xf21e
-  static const IconData sigilsNewLokaNewLokaLevel4 = IconData(
+  /// Warframe icons sigilsNewLokaNewLokaLevel2 [IconData] with Unicode 0xf21e
+  static const IconData sigilsNewLokaNewLokaLevel2 = IconData(
     0xf21e,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel3 [IconData] with Unicode 0xf21f
-  static const IconData sigilsNewLokaNewLokaLevel3 = IconData(
+  /// Warframe icons sigilsNewLokaNewLokaLevel1 [IconData] with Unicode 0xf21f
+  static const IconData sigilsNewLokaNewLokaLevel1 = IconData(
     0xf21f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel2 [IconData] with Unicode 0xf220
-  static const IconData sigilsNewLokaNewLokaLevel2 = IconData(
+  /// Warframe icons sigilsNecraloidNecraloidLevel3 [IconData] with Unicode 0xf220
+  static const IconData sigilsNecraloidNecraloidLevel3 = IconData(
     0xf220,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsNewLokaNewLokaLevel1 [IconData] with Unicode 0xf221
-  static const IconData sigilsNewLokaNewLokaLevel1 = IconData(
+  /// Warframe icons sigilsNecraloidNecraloidLevel2 [IconData] with Unicode 0xf221
+  static const IconData sigilsNecraloidNecraloidLevel2 = IconData(
     0xf221,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsNecraloidNecraloidLevel3 [IconData] with Unicode 0xf222
-  static const IconData sigilsNecraloidNecraloidLevel3 = IconData(
+  /// Warframe icons sigilsNecraloidNecraloidLevel1 [IconData] with Unicode 0xf222
+  static const IconData sigilsNecraloidNecraloidLevel1 = IconData(
     0xf222,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsNecraloidNecraloidLevel2 [IconData] with Unicode 0xf223
-  static const IconData sigilsNecraloidNecraloidLevel2 = IconData(
+  /// Warframe icons sigilsEntratiEntratiLevel5 [IconData] with Unicode 0xf223
+  static const IconData sigilsEntratiEntratiLevel5 = IconData(
     0xf223,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsNecraloidNecraloidLevel1 [IconData] with Unicode 0xf224
-  static const IconData sigilsNecraloidNecraloidLevel1 = IconData(
+  /// Warframe icons sigilsEntratiEntratiLevel4 [IconData] with Unicode 0xf224
+  static const IconData sigilsEntratiEntratiLevel4 = IconData(
     0xf224,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsEntratiEntratiLevel5 [IconData] with Unicode 0xf225
-  static const IconData sigilsEntratiEntratiLevel5 = IconData(
+  /// Warframe icons sigilsEntratiEntratiLevel3 [IconData] with Unicode 0xf225
+  static const IconData sigilsEntratiEntratiLevel3 = IconData(
     0xf225,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsEntratiEntratiLevel4 [IconData] with Unicode 0xf226
-  static const IconData sigilsEntratiEntratiLevel4 = IconData(
+  /// Warframe icons sigilsEntratiEntratiLevel2 [IconData] with Unicode 0xf226
+  static const IconData sigilsEntratiEntratiLevel2 = IconData(
     0xf226,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsEntratiEntratiLevel3 [IconData] with Unicode 0xf227
-  static const IconData sigilsEntratiEntratiLevel3 = IconData(
+  /// Warframe icons sigilsEntratiEntratiLevel1 [IconData] with Unicode 0xf227
+  static const IconData sigilsEntratiEntratiLevel1 = IconData(
     0xf227,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsEntratiEntratiLevel2 [IconData] with Unicode 0xf228
-  static const IconData sigilsEntratiEntratiLevel2 = IconData(
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel5 [IconData] with Unicode 0xf228
+  static const IconData sigilsCephalonSudaCephalonSudaLevel5 = IconData(
     0xf228,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsEntratiEntratiLevel1 [IconData] with Unicode 0xf229
-  static const IconData sigilsEntratiEntratiLevel1 = IconData(
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel4 [IconData] with Unicode 0xf229
+  static const IconData sigilsCephalonSudaCephalonSudaLevel4 = IconData(
     0xf229,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel5 [IconData] with Unicode 0xf22a
-  static const IconData sigilsCephalonSudaCephalonSudaLevel5 = IconData(
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel3 [IconData] with Unicode 0xf22a
+  static const IconData sigilsCephalonSudaCephalonSudaLevel3 = IconData(
     0xf22a,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel4 [IconData] with Unicode 0xf22b
-  static const IconData sigilsCephalonSudaCephalonSudaLevel4 = IconData(
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel2 [IconData] with Unicode 0xf22b
+  static const IconData sigilsCephalonSudaCephalonSudaLevel2 = IconData(
     0xf22b,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel3 [IconData] with Unicode 0xf22c
-  static const IconData sigilsCephalonSudaCephalonSudaLevel3 = IconData(
+  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel1 [IconData] with Unicode 0xf22c
+  static const IconData sigilsCephalonSudaCephalonSudaLevel1 = IconData(
     0xf22c,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel2 [IconData] with Unicode 0xf22d
-  static const IconData sigilsCephalonSudaCephalonSudaLevel2 = IconData(
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel5 [IconData] with Unicode 0xf22d
+  static const IconData sigilsArbitersOfHexisArbitersLevel5 = IconData(
     0xf22d,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsCephalonSudaCephalonSudaLevel1 [IconData] with Unicode 0xf22e
-  static const IconData sigilsCephalonSudaCephalonSudaLevel1 = IconData(
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel4 [IconData] with Unicode 0xf22e
+  static const IconData sigilsArbitersOfHexisArbitersLevel4 = IconData(
     0xf22e,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel5 [IconData] with Unicode 0xf22f
-  static const IconData sigilsArbitersOfHexisArbitersLevel5 = IconData(
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel3 [IconData] with Unicode 0xf22f
+  static const IconData sigilsArbitersOfHexisArbitersLevel3 = IconData(
     0xf22f,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel4 [IconData] with Unicode 0xf230
-  static const IconData sigilsArbitersOfHexisArbitersLevel4 = IconData(
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel2 [IconData] with Unicode 0xf230
+  static const IconData sigilsArbitersOfHexisArbitersLevel2 = IconData(
     0xf230,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
 
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel3 [IconData] with Unicode 0xf231
-  static const IconData sigilsArbitersOfHexisArbitersLevel3 = IconData(
-    0xf231,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel2 [IconData] with Unicode 0xf232
-  static const IconData sigilsArbitersOfHexisArbitersLevel2 = IconData(
-    0xf232,
-    fontFamily: _fontFamily,
-    fontPackage: _fontPackage,
-  );
-
-  /// Warframe icons sigilsArbitersOfHexisArbitersLevel1 [IconData] with Unicode 0xf233
+  /// Warframe icons sigilsArbitersOfHexisArbitersLevel1 [IconData] with Unicode 0xf231
   static const IconData sigilsArbitersOfHexisArbitersLevel1 = IconData(
-    0xf233,
+    0xf231,
     fontFamily: _fontFamily,
     fontPackage: _fontPackage,
   );
